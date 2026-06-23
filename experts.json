@@ -1,0 +1,277 @@
+[
+  {
+    "id": "chamath",
+    "name": "Chamath Palihapitiya",
+    "aliases": ["Chamath", "Chamath Poly", "Chimath"],
+    "role": "Venture capitalist, Social Capital founder",
+    "own_channels": [
+      "https://www.youtube.com/@allin"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Chamath Palihapitiya", "Chamath"],
+    "tags": ["vc", "tech", "macro", "all-in-bestie"]
+  },
+  {
+    "id": "sacks",
+    "name": "David Sacks",
+    "aliases": ["Sacks", "David Sacks", "Sachs"],
+    "role": "Venture capitalist, Craft Ventures, former White House AI & Crypto Czar",
+    "own_channels": [
+      "https://www.youtube.com/@allin"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["David Sacks", "David Sacks venture", "David Sacks AI"],
+    "tags": ["vc", "tech", "policy", "all-in-bestie"]
+  },
+  {
+    "id": "friedberg",
+    "name": "David Friedberg",
+    "aliases": ["Friedberg", "David Friedberg", "Freeberg", "Freedberg"],
+    "role": "Venture capitalist, scientist, The Production Board founder",
+    "own_channels": [
+      "https://www.youtube.com/@allin"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["David Friedberg", "David Friedberg investor"],
+    "tags": ["vc", "science", "biotech", "all-in-bestie"]
+  },
+  {
+    "id": "jason",
+    "name": "Jason Calacanis",
+    "aliases": ["Jason", "Jason Calacanis", "Calacanis", "Cowakanis"],
+    "role": "Angel investor, This Week in Startups host",
+    "own_channels": [
+      "https://www.youtube.com/@allin",
+      "https://www.youtube.com/@ThisWeekIn"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin",
+      "https://www.youtube.com/@ThisWeekIn"
+    ],
+    "search_terms": ["Jason Calacanis", "Jason Calacanis angel"],
+    "tags": ["angel", "startups", "media", "all-in-bestie"]
+  },
+  {
+    "id": "brad_gerstner",
+    "name": "Brad Gerstner",
+    "aliases": ["Brad Gerstner", "Brad", "altcap"],
+    "role": "Founder & CEO, Altimeter Capital",
+    "own_channels": [
+      "https://www.youtube.com/@BG2Pod",
+      "https://www.youtube.com/@allin"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@BG2Pod",
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Brad Gerstner", "Brad Gerstner Altimeter"],
+    "tags": ["vc", "public-markets", "tech", "bg2"]
+  },
+  {
+    "id": "bill_gurley",
+    "name": "Bill Gurley",
+    "aliases": ["Bill Gurley", "bgurley"],
+    "role": "General Partner, Benchmark Capital",
+    "own_channels": [
+      "https://www.youtube.com/@BG2Pod"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@BG2Pod",
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Bill Gurley", "Bill Gurley Benchmark"],
+    "tags": ["vc", "tech", "public-markets", "bg2"]
+  },
+  {
+    "id": "gavin_baker",
+    "name": "Gavin Baker",
+    "aliases": ["Gavin Baker"],
+    "role": "CIO, Atreides Management",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin",
+      "https://www.youtube.com/@BG2Pod"
+    ],
+    "search_terms": ["Gavin Baker Atreides", "Gavin Baker investor"],
+    "tags": ["public-markets", "tech", "semiconductors"]
+  },
+  {
+    "id": "ray_dalio",
+    "name": "Ray Dalio",
+    "aliases": ["Ray Dalio"],
+    "role": "Founder, Bridgewater Associates",
+    "own_channels": [
+      "https://www.youtube.com/@principlesbyraydalio"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Ray Dalio", "Ray Dalio macro", "Ray Dalio Bridgewater"],
+    "tags": ["macro", "hedge-fund", "global-markets"]
+  },
+  {
+    "id": "bill_ackman",
+    "name": "Bill Ackman",
+    "aliases": ["Bill Ackman"],
+    "role": "CEO, Pershing Square Capital",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Bill Ackman", "Bill Ackman Pershing Square"],
+    "tags": ["hedge-fund", "public-markets", "activism"]
+  },
+  {
+    "id": "jensen_huang",
+    "name": "Jensen Huang",
+    "aliases": ["Jensen Huang", "Jensen"],
+    "role": "CEO, NVIDIA",
+    "own_channels": [],
+    "known_podcasts": [],
+    "search_terms": ["Jensen Huang interview", "Jensen Huang NVIDIA"],
+    "tags": ["semiconductors", "ai", "tech-ceo"]
+  },
+  {
+    "id": "elon_musk",
+    "name": "Elon Musk",
+    "aliases": ["Elon Musk", "Elon"],
+    "role": "CEO, Tesla, SpaceX, xAI; DOGE",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Elon Musk interview", "Elon Musk podcast"],
+    "tags": ["tech-ceo", "macro", "policy", "ai"]
+  },
+  {
+    "id": "sam_altman",
+    "name": "Sam Altman",
+    "aliases": ["Sam Altman"],
+    "role": "CEO, OpenAI",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Sam Altman interview", "Sam Altman OpenAI"],
+    "tags": ["ai", "tech-ceo"]
+  },
+  {
+    "id": "peter_thiel",
+    "name": "Peter Thiel",
+    "aliases": ["Peter Thiel"],
+    "role": "Co-founder, Palantir & PayPal; Founders Fund",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Peter Thiel interview", "Peter Thiel Founders Fund"],
+    "tags": ["vc", "tech", "macro", "policy"]
+  },
+  {
+    "id": "balaji",
+    "name": "Balaji Srinivasan",
+    "aliases": ["Balaji Srinivasan", "Balaji"],
+    "role": "Angel investor, former CTO Coinbase",
+    "own_channels": [
+      "https://www.youtube.com/@balajis"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Balaji Srinivasan", "Balaji crypto"],
+    "tags": ["crypto", "tech", "macro"]
+  },
+  {
+    "id": "mark_cuban",
+    "name": "Mark Cuban",
+    "aliases": ["Mark Cuban"],
+    "role": "Entrepreneur, investor, former Shark Tank",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Mark Cuban interview", "Mark Cuban podcast"],
+    "tags": ["entrepreneur", "public-markets", "policy"]
+  },
+  {
+    "id": "dan_loeb",
+    "name": "Dan Loeb",
+    "aliases": ["Dan Loeb"],
+    "role": "CEO, Third Point LLC",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Dan Loeb Third Point", "Dan Loeb interview"],
+    "tags": ["hedge-fund", "activism", "public-markets"]
+  },
+  {
+    "id": "thomas_laffont",
+    "name": "Thomas Laffont",
+    "aliases": ["Thomas Laffont"],
+    "role": "Co-founder, Coatue Management",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Thomas Laffont Coatue", "Thomas Laffont interview"],
+    "tags": ["vc", "hedge-fund", "tech"]
+  },
+  {
+    "id": "antonio_gracias",
+    "name": "Antonio Gracias",
+    "aliases": ["Antonio Gracias"],
+    "role": "Founder & CEO, Valor Equity Partners",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Antonio Gracias Valor", "Antonio Gracias interview"],
+    "tags": ["vc", "tech", "manufacturing"]
+  },
+  {
+    "id": "bill_maris",
+    "name": "Bill Maris",
+    "aliases": ["Bill Maris"],
+    "role": "Founder, Section 32; former Google Ventures CEO",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Bill Maris Section 32", "Bill Maris Google Ventures"],
+    "tags": ["vc", "biotech", "tech"]
+  },
+  {
+    "id": "renee_haas",
+    "name": "Renee Haas",
+    "aliases": ["Renee Haas", "Rene Haas"],
+    "role": "CEO, Arm Holdings",
+    "own_channels": [],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin",
+      "https://www.youtube.com/@bg2pod"
+    ],
+    "search_terms": ["Renee Haas Arm Holdings", "Renee Haas interview"],
+    "tags": ["semiconductors", "tech", "chips"]
+  },
+  {
+    "id": "bryan_johnson",
+    "name": "Bryan Johnson",
+    "aliases": ["Bryan Johnson"],
+    "role": "Founder, Kernel & OS Fund; Blueprint longevity project",
+    "own_channels": [
+      "https://www.youtube.com/@bryanjohnson_"
+    ],
+    "known_podcasts": [
+      "https://www.youtube.com/@allin"
+    ],
+    "search_terms": ["Bryan Johnson interview", "Bryan Johnson Blueprint"],
+    "tags": ["biotech", "longevity", "entrepreneur"]
+  }
+]

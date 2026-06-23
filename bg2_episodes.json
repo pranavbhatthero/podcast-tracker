@@ -1,0 +1,722 @@
+[
+  {
+    "title": "The SpaceX IPO, Fable 5, AI Capex Update & Market Check w/ Gavin Baker, Andrew Fox & Clark Tang",
+    "video_id": "Tx9jT2c6e3U",
+    "url": "https://www.youtube.com/watch?v=Tx9jT2c6e3U",
+    "date": "2026-06-11",
+    "duration_seconds": 4847,
+    "duration_string": "1:20:47",
+    "description": "Brad Gerstner sits down with Gavin Baker and Andrew Fox of Atreides Management, alongside Altimeter partner Clark Tang, to break down one of the biggest questions in tech and markets: how should investors think about the SpaceX IPO?\n\nThey unpack the major levers behind SpaceX\u2019s next phase: Starship rapid reusability, Starlink broadband and direct-to-cell, Elon\u2019s emerging AI compute business, xAI\u2019s model ambitions, the Cursor acquisition, and the long-term promise of orbital data centers. The group also debates whether SpaceX is becoming a new kind of AI hyperscaler \u2014 \u201cElon Web Services\u201d \u2014 and what that means for the future of compute, cloud, and frontier intelligence.\n\nThen they dive into the latest model race: Fable 5, Mythos, ChatGPT 5.5, long-running agents, open source vs. frontier models, Nvidia vs. ASICs, the AI CapEx boom, and why the market may still be underestimating the scale of AI demand. Enjoy another episode of BG2!\n\nTimestamps:\n(00:40) Intro \u2014 SpaceX IPO in Two Days, Mythos Launches, Taiwan Takeaways\n(03:05) xAI's Google & Anthropic Deals: Highest Operating Profit Per Gigawatt\n(13:28) \"Elon Web Services\" \u2014 Nobody Had AI Compute in the SpaceX Model\n(19:08) Data Centers Are Not Commodities: First-Principles Design\n(26:01) Orbital Compute Economics: $5B Per Gigawatt in Space vs. $25B on the Ground\n(29:25) The Most Underrated Variable: What Cursor Does for xAI's Model\n(35:05) Bull & Bear Case \u2014 Can SpaceX Really 8X Revenue in 4 Years?\n(37:00) Post-IPO Drawdowns, Lock-Ups & How to Size the Position\n(43:56) Fable 5, Mythos & Why Snapshot Benchmarks Are Broken\n(51:00) Frontier vs. Open Source: 90% of Revenue Accrues at the Frontier\n(01:04:11) $1.5T in CapEx vs. $300B in AI Revenue \u2014 Does the Math Math?\n(01:18:13) The Next $1 Trillion: Three Companies, Half the Time\n\nProduced by Edward Schmidt & Dan Shevchuk\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nGavin Baker @GavinSBaker https://x.com/GavinSBaker\nClark Tang @_clarktang https://x.com/_clarktang\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 105474,
+    "like_count": 2552,
+    "thumbnail": "https://i.ytimg.com/vi_webp/Tx9jT2c6e3U/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "ChatGPT \u2013 The Super Assistant Era | BG2 Guest Interview",
+    "video_id": "MIKej1HCRW0",
+    "url": "https://www.youtube.com/watch?v=MIKej1HCRW0",
+    "date": "2026-03-15",
+    "duration_seconds": 3821,
+    "duration_string": "1:03:41",
+    "description": "In this BG2 guest interview, Altimeter Partner Apoorv Agrawal sits down with Nick Turley of OpenAI for a deep dive into how ChatGPT became one of the fastest-growing products in history\u2014and what comes next.\nThey discuss how OpenAI thinks about retention and product metrics, why long-term engagement matters more than raw growth, and how ChatGPT gets the next billion users. The conversation explores the future of AI assistants: moving beyond chat into proactive agents that can take actions, complete long-horizon tasks, and integrate deeply into users\u2019 daily lives.\nNick also shares how OpenAI balances product improvements with breakthrough research, how GPU constraints shape product decisions, and why building for both power users and everyday consumers is essential to discovering new use cases. The episode covers the evolution of ChatGPT pricing, the role of partnerships and distribution, and how OpenAI is thinking about scaling access to AI globally.\n\nA must-watch discussion for builders, operators, and investors trying to understand the next phase of AI\u2014from chatbots to true \u201csuper assistants.\u201d\n\n(00:00) Intro\n(01:00) Nick Turley\u2019s Journey to OpenAI\n(02:15) ChatGPT\u2019s North Star: Long-Term Retention\n(04:15) Why ChatGPT\u2019s Retention Curve \u201cSmiles\u201d\n(06:45) What Drove ChatGPT\u2019s Consumer Breakout\n(10:15) How OpenAI Gets the Next Billion Users\n(14:15) When ChatGPT Starts Taking Actions\n(18:15) Why Coding Agents Came First\n(21:00) Beyond Chatbots: The Super Assistant Vision\n(24:00) Power Users vs. Casual Users\n(28:00) Why ChatGPT Pricing Has to Change\n(33:45) Partnerships, Distribution, and Product Tradeoffs\n(37:15) GPUs, Scarcity, and the Cost of Scaling AI\n(41:30) Shopping, ChatGPT as a Thought Partner, and Code Red\n(51:45) OpenAI\u2019s Future Interface, Rapid Fire, AI Jobs, and Nick\u2019s AGI Moments\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\nAvailable on Apple, Spotify, \u2060\u2060www.bg2pod.com\u2060\u2060\n\nFollow:\nApoorv Agrawal @apoorv03 https://x.com/apoorv03BG2 Pod @bg2pod \u2060\u2060https://x.com/BG2Pod\u2060",
+    "view_count": 9521,
+    "like_count": 139,
+    "thumbnail": "https://i.ytimg.com/vi_webp/MIKej1HCRW0/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "AI Enterprise - Databricks & Glean | BG2 Guest Interview",
+    "video_id": "jA8ZQfq_Hzs",
+    "url": "https://www.youtube.com/watch?v=jA8ZQfq_Hzs",
+    "date": "2025-12-23",
+    "duration_seconds": 2700,
+    "duration_string": "45:00",
+    "description": "In this BG2 guest interview, Altimeter partner Apoorv Agrawal sits down with Ali Ghodsi (Databricks) and Arvind Jain (Glean) for a candid, operator-level discussion on what\u2019s actually working in enterprise AI\u2014and what isn\u2019t.\nThey unpack why 95% of AI projects fail, why LLMs are rapidly commoditizing, and why durable advantage is shifting to proprietary data, agentic systems, and workflow integration. The conversation dives deep into real-world use cases across finance, healthcare, and retail; the debate over whether we already have AGI; and how AI spend, CapEx, and valuation bubbles will realistically play out. A must-watch for builder, and investors navigating the AI transition inside real organizations.\n\n\nTimestamps:\n(00:00) Intro\n(01:00) Consumer AI vs. Enterprise Reality\n(02:15) Why 95% of AI Projects Fail\n(04:15) RBC, Merck, and 7-Eleven Use Cases\n(06:45) What Actually Makes AI Work\n(07:00) LLMs Are Commodities\u2014Data Is the Moat\n(08:45) Failed AI Bets at Databricks & Glean\n(11:00) RPA vs. Generative AI\n(14:15) Advice for CIOs Planning AI Budgets\n(16:00) AI CapEx and the Revenue Math\n(18:00) The Three Camps of AI\n(21:00) Making AI Useful Inside Enterprises\n(24:30) Why Apps Capture the Value\n(30:00) The Future of UI, Voice, and Data Entry\n(37:30) Rapid Fire: Winners, Bubbles, Long/Short\n\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\n\nFollow:\nApoorv Agrawal @apoorv03 https://x.com/apoorv03\n\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\u2060",
+    "view_count": 24999,
+    "like_count": 332,
+    "thumbnail": "https://i.ytimg.com/vi_webp/jA8ZQfq_Hzs/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "All things AI w @altcap @sama & @satyanadella.  A Halloween Special.  \ud83c\udf83\ud83d\udd25BG2 w/ Brad Gerstner",
+    "video_id": "Gnl833wXRz0",
+    "url": "https://www.youtube.com/watch?v=Gnl833wXRz0",
+    "date": "2025-10-31",
+    "duration_seconds": 4461,
+    "duration_string": "1:14:21",
+    "description": "Brad Gerstner sits down with Satya Nadella (Microsoft) and Sam Altman (OpenAI) to unpack the $3 trillion AI buildout transforming technology, business, and the global economy. They dive deep into the OpenAI\u2013Microsoft partnership, how it unlocked massive scale in the cloud, and what it reveals about the future of intelligence and capital.\nNadella breaks down how Microsoft is expanding Azure and Copilot to meet explosive demand. Altman shares his view on progress, power, and the human drive to push boundaries. A candid, energizing conversation about building the future at scale. Enjoy another episode of BG2!\n\n(00:00) Intro\n(02:28) Microsoft\u2019s Investment in OpenAI\n(03:19) The Nonprofit Structure and Its Impact\n(05:46) Health, AI Security, and Resilience\n(07:50) Models, Exclusivity, and Distribution\n(08:58) Revenue Sharing and AGI Milestones\n(11:38) OpenAI\u2019s Growth and Compute Commitments\n(15:21) Compute Constraints and Scaling\n(21:27) The Future of AI Devices and Consumer Use\n(24:31) Regulation and the Patchwork Problem\n(28:01) Looking Ahead to 2026 and Beyond\n(37:10) Microsoft\u2019s Strategic Value from OpenAI\n(57:15) The Economics of AI and SaaS\n(1:04:28) Productivity, Jobs, and the Age of AI\n(1:10:43) Reindustrialization of America\n\nProduced by Dan ShevchukMusic by Yung Spielberg\nAvailable on Apple, Spotify, www.bg2pod.com\nFollow:Brad Gerstner @altcap https://x.com/altcap\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 230632,
+    "like_count": 3958,
+    "thumbnail": "https://i.ytimg.com/vi_webp/Gnl833wXRz0/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "AI Bubble, Stablecoin Boom, and Runnin' Down a Dream | BG2 w/ Bill Gurley and Brad Gerstner",
+    "video_id": "KX6q6lvoYtM",
+    "url": "https://www.youtube.com/watch?v=KX6q6lvoYtM",
+    "date": "2025-10-14",
+    "duration_seconds": 3710,
+    "duration_string": "1:01:50",
+    "description": "Pre-Order Runnin' Down a Dream now: https://a.co/d/0oIPPve\n\nOpen Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they unpack the $3T AI buildout, circular revenue red flags, and whether the boom is becoming a bubble. They dive into the rise of stablecoins and the new financial rails reshaping money, the fight over AI regulation in America, and Bill\u2019s next chapter\u2014his new book Runnin' Down a Dream and what it means to build a career you actually love. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(02:00) Two Years of BG2\n(03:45) Bill Stepping Back to Write His Book\n(06:00) Runnin' Down a Dream\n(07:00) The AI CapEx Bubble?\n(09:30) Sham vs. Real Transactions in AI\n(11:00) Microsoft\u2013OpenAI Credits & Cloud Economics\n(13:00) Nvidia\u2019s Investments: Healthy or Hype?\n(17:00) CoreWeave, Hidden Leverage & Demand Risks\n(19:15) $3 Trillion CapEx: Are We Overbuilding AI?\n(21:45) The MAG5 CapEx Surge: Too Much, Too Fast?\n(24:30) Meta\u2019s CapEx Comeback & AI ROI\n(25:30) OpenAI\u2019s Race for Escape Velocity\n(28:30) AI Regulation: State Patchwork Madness\n(30:30) Why Federal Preemption Is Critical\n(33:15) The Colorado & California AI Acts\n(35:00) Stablecoin Surge: $18T in Settlements\n(36:45) Gurley\u2019s Crypto Conversion\n(38:30) From PIX to FedNow: The Future of Digital Money\n(41:00) Coinbase, Circle, and the 4% Yield Revolution\n(43:00) Why Visa & Banks Fear Stablecoins\n(45:00) Gurley: \u201cI\u2019m Jumping on the Crypto Train\u201d\n(46:00) Brad on Invest America (Trump Accounts)\n(49:00) Implementation Timeline & Treasury Update\n(50:30) Bill\u2019s Book: Runnin' Down a Dream\n(53:15) The Great Career Reset: Passion vs. Grind\n(55:00) Bezos\u2019 Regret Minimization Framework\n(57:00) Who the Book Is For\n(59:00) Gurley\u2019s Next Mission\n\nShow Notes:\nAll-In Summit: Bill Gurley presents 2,851 Miles: \u2060https://www.youtube.com/watch?v=F9cO3-MLHOM\nPlain English: This Is How the AI Bubble Could Burst: \u2060https://podcasts.apple.com/us/podcast/this-is-how-the-ai-bubble-could-burst/id1594471023?i=1000728026459\u2060\nBezos\u2019 Regret Minimization Framework: \u2060https://www.youtube.com/watch?v=jwG_qR6XmDQ\u2060\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nFollow:\nBrad Gerstner @altcap \u2060https://x.com/altcap\u2060\nBill Gurley @bgurley \u2060https://x.com/bgurley\u2060\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod",
+    "view_count": 72378,
+    "like_count": 1678,
+    "thumbnail": "https://i.ytimg.com/vi_webp/KX6q6lvoYtM/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "NVIDIA: OpenAI, Future of Compute, and the American Dream  | BG2 w/ Bill Gurley and Brad Gerstner",
+    "video_id": "pE6sw_E9Gh0",
+    "url": "https://www.youtube.com/watch?v=pE6sw_E9Gh0",
+    "date": "2025-09-26",
+    "duration_seconds": 6254,
+    "duration_string": "1:44:14",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, Brad and Clark Tang sit down with Jensen Huang, founder & CEO of NVIDIA, for a sweeping deep dive on the new era of AI. From the $100B partnership with OpenAI to the rise of AI factories, sovereign AI, and protecting the American Dream\u2014this episode explores how accelerated computing is reshaping the global economy. NVIDIA, OpenAI, hyperscalers, and global infrastructure: the AI race is on. Don\u2019t miss this must-listen BG2.\n\n(00:00) Intro\n(0:37) The Year in AI Recap\n(3:24) OpenAI Stargate & Nvidia Investment\n(8:41) Nvidia Accelerated Compute TAM\n(18:55) $NVDA ROI \u2013 Glut or Bubble?\n(27:45) Roundtripping Claims\n(31:10) Annual Release Cadence & Extreme Co-design\n(40:45) Future of ASICs & Economics\n(53:47) Nvidia's Competitive Moat\n(56:55) Elon, X.ai & Colossus 2\n(58:47) Sovereign AI & Global Buildout\n(1:02:21) The AI Administration\n(1:07:43) Chinese AI Chips & NVIDIA\u2019s Role\n(1:17:24) H-1B, Talent, & the American Dream\n(1:29:33) Invest America & American Right to Rise\n(1:37:40) The Future Ahead\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\nFollow:\nBrad Gerstner @altcap \u2060https://x.com/altcap\u2060\nBill Gurley @bgurley \u2060https://x.com/bgurley\u2060\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\u2060",
+    "view_count": 430506,
+    "like_count": 9862,
+    "thumbnail": "https://i.ytimg.com/vi_webp/pE6sw_E9Gh0/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Inside OpenAI Enterprise: Forward Deployed Engineering, GPT-5, and More | BG2 Guest Interview",
+    "video_id": "yLTSqBzKG2s",
+    "url": "https://www.youtube.com/watch?v=yLTSqBzKG2s",
+    "date": "2025-09-11",
+    "duration_seconds": 4137,
+    "duration_string": "1:08:57",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, guest host Altimeter\u2019s Apoorv Agrawal explores how OpenAI is reshaping enterprise with Sherwin Wu, Head of Engineering OpenAI Platform, and Olivier Godement, Head of Product OpenAI Platform. From T-Mobile\u2019s AI voice support to Amgen\u2019s drug breakthroughs to Los Alamos\u2019 air-gapped supercomputer\u2014this episode dives into the real world of AI at scale. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(01:50) OpenAI\u2019s Enterprise Mission: Beyond ChatGPT\n(06:00) Case Study: T-Mobile - Voice & Support \n(11:30) Case Study: Amgen - Accelerating Drug Development\n(13:45) Case Study: Los Alamos National Lab \n(17:00) Why 95% of AI Deployments Fail?\n(20:30) Physical vs Digital Autonomy: Scaffolding & Infrastructure\n(26:00) GPT-5: Release, Benchmarks vs Behavior\n(30:00) GPT-5 Feedback: Instruction Following, Hallucinations, Code Quality\n(33:00) Multimodality: Text, Voice, and Video\n(35:30) Audio: Realtime API vs Stitched Audio\n(38:00) Model Customization & Reinforcement Fine-Tuning (RFT)\n(43:00) Rapid Fire: Long/Short Picks \n(1:03:00) Highlights and Lowlights @ OpenAI\n\nShow Notes:\n\nT-Mobile Partnership: https://www.t-mobile.com/news/business/t-mobile-launches-intentcx-with-openai\nAmgen Partnership: https://openai.com/index/gpt-5-amgen/\nLos Alamos Partnership: https://www.lanl.gov/media/news/0130-open-ai\nMIT AI Report: https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\nApoorv Agrawal @apoorv03 https://x.com/apoorv03\nSherwin Wu @sherwinwu https://x.com/sherwinwu\nOlivier Godement @oliviergodement  https://x.com/oliviergodement",
+    "view_count": 23903,
+    "like_count": 348,
+    "thumbnail": "https://i.ytimg.com/vi_webp/yLTSqBzKG2s/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "China, China, China. Breaking Down China\u2019s Tech Surge | BG2 w/ Bill Gurley and Brad Gerstner",
+    "video_id": "hUJz55AsUz4",
+    "url": "https://www.youtube.com/watch?v=hUJz55AsUz4",
+    "date": "2025-08-28",
+    "duration_seconds": 3992,
+    "duration_string": "1:06:32",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they dive deep into China\u2019s explosive innovation across AI and EVs, the rise of open-source models, lessons for U.S. competitiveness, the real story on tariffs and trade\u2014and what America must do to win the global tech race. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(01:20) OpenAI, Anthropic, Private Market Overheating\n(03:30) China's Role in the Global Tech Order\n(04:50) Why Bill Went to China\n(06:40) Dan Wang's Breakneck: Engineers vs Lawyers\n(10:30) Xiaomi, BYD, and Auto Innovation\n(14:00) Factory Productivity, Automation, and the Jobs Debate\n(15:20) Open Source Model Culture in China\n(19:30) Can the US Compete Without Reform?\n(23:30) Tariffs, Trade Deals, and a Path to Cooperation\n(28:00) Waymo, Baidu, and Cost Innovation\n(33:00) Is China Winning Global Trade?\n(36:30) Debunking the Subsidy Narrative\n(38:30) What the CEOs Who Visit China Actually Say\n(41:30) China's AI Ecosystem: DeepSeek, Qwen, Alibaba Cloud\n(44:00) Open Source in China and the US: Strategic Choices\n(48:00) VC Pullback from China & What's Still Happening on the Ground\n(53:00) China's New K-Visa vs US Skilled Immigration Policies\n(56:30) Gurley: Read Dan Wang\u2019s Breakneck, Watch the Ground Game\n(01:03:00) VC Pullback from China\n\nShow Notes:\nOpen Source Development in China https://merics.org/sites/default/files/2021-05/MERICS%20Primer%20Open%20Source%202021_0.pdf\nLei Jun 2024 Annual Speech: https://www.youtube.com/live/l5f3wvLwLXY\n\nProduced by Dan Shevchuk\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 114821,
+    "like_count": 2527,
+    "thumbnail": "https://i.ytimg.com/vi_webp/hUJz55AsUz4/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "China Open-Source, Compute Arms Race, Reordering Global Trade | BG2 w/ Bill Gurley and Brad Gerstner",
+    "video_id": "fTqINzeudJ4",
+    "url": "https://www.youtube.com/watch?v=fTqINzeudJ4",
+    "date": "2025-07-31",
+    "duration_seconds": 3861,
+    "duration_string": "1:04:21",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss open-source models in China and the US, the compute arms race, tariffs and the reordering of global trade, and more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(3:55) Open-Source Models in China\n(17:54) Future of American Open-Source Models\n(26:30) Compute Arms Race\n(47:05) China, Tariffs, and Reordering of Global Trade\n\nShow Notes:\nArtificial Analysis - Intelligence vs. Price https://artificialanalysis.ai/\n\nMary Meeker Bond Deck https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 54951,
+    "like_count": 1001,
+    "thumbnail": "https://i.ytimg.com/vi_webp/fTqINzeudJ4/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Michael Dell \u2013 Invest America Act Becomes Law, AI Talent Wars, Compute Demand, Market Update | BG2",
+    "video_id": "X52BNWZrXSk",
+    "url": "https://www.youtube.com/watch?v=X52BNWZrXSk",
+    "date": "2025-07-10",
+    "duration_seconds": 4715,
+    "duration_string": "1:18:35",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they welcome Michael Dell  to discuss the Invest America Act, lessons learned from the 90\u2019s, government spending, budget deficit, the AI talent war, AI's Role in Economic Growth and Productivity, the explosion in AI compute and demand, the markets, and more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(4:13) Lessons from the 90\u2019s at Dell\n(8:37) Invest America Act Signed Into Law\n(27:12) Government Spending and Budget Deficit\n(36:05) The AI Talent War \n(46:25) AI's Role in Economic Growth and Productivity\n(53:42) AI Compute\u2013Explosion in Demand\n(1:03:53) Market Check\n\nShow Notes:\nInvest America:\nhttps://www.investamerica.org/\n\nNext Gen Personal Finance:\nhttps://www.ngpf.org/\n\nPlay Nice But Win: A CEO's Journey from Founder to Leader:\nhttps://a.co/d/fh54u05\n\nMilken Institute: The Economic Impact of Invest America Accounts:\nhttps://milkeninstitute.org/content-hub/research-and-reports/reports/economic-impact-invest-america-accounts\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\nMichael Dell @MichaelDell https://x.com/michaeldell",
+    "view_count": 76045,
+    "like_count": 1512,
+    "thumbnail": "https://i.ytimg.com/vi_webp/X52BNWZrXSk/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Coatue Pt2. Open AI\u2019s Kevin Weil Dives into All Things ChatGPT | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "IOoRXSyezBE",
+    "url": "https://www.youtube.com/watch?v=IOoRXSyezBE",
+    "date": "2025-06-21",
+    "duration_seconds": 1296,
+    "duration_string": "21:36",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, recording from the Coatue East Meets West stage, they welcome OpenAI CPO Kevin Weil to discuss all things OpenAI. Enjoy another episode of BG2!\n\nShow Notes:\nCoatue EMW 2025 Slides\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nKevin Weil @kevinweil https://x.com/kevinweil?lang=en\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 42951,
+    "like_count": 670,
+    "thumbnail": "https://i.ytimg.com/vi_webp/IOoRXSyezBE/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Coatue\u2019s Laffont Brothers. AI, Public & VC Mkts, Macro, US Debt, Crypto, IPO's, & more | BG2",
+    "video_id": "4JA7n0wTChw",
+    "url": "https://www.youtube.com/watch?v=4JA7n0wTChw",
+    "date": "2025-06-20",
+    "duration_seconds": 3676,
+    "duration_string": "1:01:16",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they welcome Coatue\u2019s Thomas and Philippe Laffont to discuss the AI Super cycle, Stablecoin and crypto, consumer AI, NVIDIA GPU\u2019s, Macroeconomics, publc markets, VC markets, M&A\u2019s, insights for founders and CEO\u2019s, and more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(02:36) The AI Super Cycle\n(07:47) Stablecoin & Cryptocurrency\n(16:19) Consumer AI & Impact on $GOOG\n(22:54) GPU Allocation v Cloud Revenue Market Share\n(28:56) AI Impact on Macro + Debt\n(35:20) Private Markets, IPO\u2019s, M&A\u2019s\n(45:59) Golden Age of Margin Expansion\n(51:48) Jevon\u2019s Paradox\n(53:19) Insights for Founders and CEOs\n\nShow Notes:\nCoatue EMW 2025 Slides - https://drive.google.com/file/d/1Srl8Y4pBoKtNVYZBxmfj2TEMYM5tp1mE/view\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 97349,
+    "like_count": 1790,
+    "thumbnail": "https://i.ytimg.com/vi_webp/4JA7n0wTChw/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "China, AI Immigration, Rare Earths & Chips, Tariffs, Markets | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "4qG_f2DY_3M",
+    "url": "https://www.youtube.com/watch?v=4qG_f2DY_3M",
+    "date": "2025-06-06",
+    "duration_seconds": 3672,
+    "duration_string": "1:01:12",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss the pace of AI and data walls, China\u2019s startups, immigration and talent acquisition, rare earths, chips, China trade deal, corporate governance, Delaware incorporation rights, & more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(04:24) Pace of AI + Data Walls\n(11:43) China's 1000 Startup Strategy\n(26:18) Talent Acquisition and Immigration Policies\n(36:24) Rare Earths, Chips / China Trade Deal\n(53:46) Corporate Governance and Delaware Dilemna\n\nShow Notes:\nReddit v. Anthropic\nhttps://redditinc.com/hubfs/Reddit%20Inc/Content/PDFs/Docket%20Stamped%20Complaint.pdf\n\nChina\u2019s \u201cThousand Startups Bloom\u201d\nhttps://bg2pod.notion.site/china-s-thousand-startups-bloom-strategy\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 64894,
+    "like_count": 1173,
+    "thumbnail": "https://i.ytimg.com/vi_webp/4qG_f2DY_3M/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "AI, Middle East, China, Tariffs, Recon Bill, Invest America | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "K2cpSUpdIOs",
+    "url": "https://www.youtube.com/watch?v=K2cpSUpdIOs",
+    "date": "2025-05-22",
+    "duration_seconds": 4587,
+    "duration_string": "1:16:27",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss the overturning of the AI Diffusion Rule, Brad\u2019s trip to the Middle East, Middle East Deals, China Tariffs, Reconciliation Bill, Invest America, Delaware Incorporation Rights, Momentum in Crypto, Open Source AI in China, & more. Enjoy another episode of BG2!\n\n\n(00:00) Intro\n(02:02) AI Diffusion Rule and Middle East Deals\n(20:31)  China Tariff Deal \n(31:10) Reconciliation Bill\n(44:06) Invest America inclusion in the bill\n(49:09) Delaware Incorporation Rights\n(59:51) Major Momentum in Crypto\n(01:06:28) Open Source AI in China \n\n\nSHOW NOTES:\nWSJ - The Tech Industry Is Huge\u2013and Europe\u2019s Share of It Is Very Small\nhttps://www.wsj.com/tech/europe-big-tech-ai-1f3f862c?reflink=desktopwebshare_permalink\nWelcome to the China Hawk Industrial Complex\nhttps://www.nonzero.org/p/welcome-to-the-china-hawk-industrial\nChina's Baidu to make latest Ernie AI model open-source as competition heats up\nhttps://www.reuters.com/technology/artificial-intelligence/baidu-make-ernie-ai-model-open-source-end-june-2025-02-14/\nLodestar Multipliers in Delaware and Federal Attorney Fee Awards\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237545\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 68043,
+    "like_count": 1465,
+    "thumbnail": "https://i.ytimg.com/vi_webp/K2cpSUpdIOs/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "SPfE5SS7fc0",
+    "url": "https://www.youtube.com/watch?v=SPfE5SS7fc0",
+    "date": "2025-04-24",
+    "duration_seconds": 3757,
+    "duration_string": "1:02:37",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they revisit arguments about free trade, and discuss updates on tariff negotiations, export controls, the new AI cold war, NVIDIA H20 chip ban, rare earth ban, DeepSeek, Tesla, & more. Enjoy another episode of BG2!\n\nTimestamps:\n\n(00:00) Intro\n(02:15) Complex Systems\n(06:00) Tariff Negotiations & Free Trade\n(23:19) Export Controls: AI War, H20 & Rare Earth Ban\n(42:29) New AI Cold War & Zero Sum Game\n(52:37) $TSLA & Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n\nSHOW NOTES:\n\nFinancial Times - US rare earth champion faces trade war test after tariffs halt China sales\nhttps://www.ft.com/content/0ef4a333-245b-4f42-a026-e72dcd9240db\n\nCNBC - U.S. chip controls will benefit China\u2019s Nvidia rivals like Huawei: Analysts\nhttps://www.cnbc.com/2025/04/21/us-chip-controls-boon-for-china-nvidia-rivals-like-huawei-analysts-.html\n\nProject Syndicate - Trump\u2019s $16 Trillion Trade Blind Spot\nhttps://www.project-syndicate.org/commentary/trump-tariff-war-misses-the-bigger-battle-by-ricardo-hausmann-2025-03\n\nNYTimes - I Just Saw the Future. It Was Not in America (Thomas L. Friedman)\nhttps://www.nytimes.com/2025/04/02/opinion/trump-tariffs-china.html\n\nEzra Klein Podcast feat. Thomas Friedman\nhttps://open.spotify.com/episode/1twkfDIGF8gzn64gqAQCCN\n\nJohn Mearsheimer and Jeffrey Sachs | All-In Summit 2024\nhttps://www.youtube.com/watch?v=uvFtyDy_Bt0\n\nReuters - China hits back at US tariffs with export controls on key rare earths\nhttps://www.reuters.com/world/china-hits-back-us-tariffs-with-rare-earth-export-controls-2025-04-04/\n\nNYTimes - Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China\nhttps://www.nytimes.com/2025/04/15/technology/nvidia-h20-chip-china-restrictions.html",
+    "view_count": 82415,
+    "like_count": 1807,
+    "thumbnail": "https://i.ytimg.com/vi_webp/SPfE5SS7fc0/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Liberation Day, Tariffs, US v China Open Source, OpenAI, $CRWV, TikTok | BG2",
+    "video_id": "b0DO0tP06eQ",
+    "url": "https://www.youtube.com/watch?v=b0DO0tP06eQ",
+    "date": "2025-04-04",
+    "duration_seconds": 4392,
+    "duration_string": "1:13:12",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss market uncertainty, globalism and tariffs, M&A, Wiz and GOOG, NVDA GTC, consumer AI demand, AI unit economics, & more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(02:20) Liberation Day & Tariffs\n(19:18) US Open Source vs China Open Source\n(34:34) OpenAI Fundraise\n(52:25) Coreweave IPO & AI Demand\n(01:04:03) Rumors on TikTok deal\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 79020,
+    "like_count": 1477,
+    "thumbnail": "https://i.ytimg.com/vi_webp/b0DO0tP06eQ/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "NVDA GTC, M&A Wiz / Goog $32 B Deal, April 2 Tariff Uncertainty; Huawei Belt & Road; ChatGPT | BG2",
+    "video_id": "ymEtsnDif5M",
+    "url": "https://www.youtube.com/watch?v=ymEtsnDif5M",
+    "date": "2025-03-21",
+    "duration_seconds": 4921,
+    "duration_string": "1:22:01",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss market uncertainty, globalism and tariffs, M&A, Wiz and GOOG, NVDA GTC, consumer AI demand, AI unit economics, & more. Enjoy another episode of BG2!\n\n\nTimestamps:\n(00:00) Intro\n(02:21) Market Uncertainty\n(07:28) Globalism and Tariff Policies\n(25:07) $GOOG Acquisition of Wiz + M&A Environment \n(40:33) $NVDA Market Position\n(55:37) Government Regulations & Impact on AI\n(1:04:45) Consumer AI Demand\n(1:10:33) AI Unit Economics\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 68824,
+    "like_count": 1363,
+    "thumbnail": "https://i.ytimg.com/vi_webp/ymEtsnDif5M/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Grok 3, AI Memory & Voice, China, DOGE, Public Market Pull Back | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "UGmOYNWiV1A",
+    "url": "https://www.youtube.com/watch?v=UGmOYNWiV1A",
+    "date": "2025-03-02",
+    "duration_seconds": 3800,
+    "duration_string": "1:03:20",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss Grok 3, AI memory, voice, and evaluations, China, DOGE, the public market pullback, & more. Enjoy another episode of BG2!\n\n\nTimestamps:\n(00:00) Intro\n(01:40) Grok 3\n(05:55) Grok\u2019s Leverage of X Platform\n(07:25) AI Consumer Market & SEO\n(23:04) AI Memory\n(26:15) AI Voice\n(29:05) Future AI Assets\n(33:29) AI Acceleration in China\n(36:09) Regulatory Challenges\n(37:46) AI CapEx and Investing Dynamics\n(48:38) Government Spending + DOGE\n(1:00:51) Golden State Warriors\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 76183,
+    "like_count": 1882,
+    "thumbnail": "https://i.ytimg.com/vi_webp/UGmOYNWiV1A/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "DeepSeek, Open Source, Tariffs, DOGE, Market Impact | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "j8chNXhA8o8",
+    "url": "https://www.youtube.com/watch?v=j8chNXhA8o8",
+    "date": "2025-02-05",
+    "duration_seconds": 4447,
+    "duration_string": "1:14:07",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss DeepSeek, globalism vs national interests, Trump tariffs, open source, DOGE, & more. . Enjoy another episode of BG2!\n\nTimestamps:\n\n(00:00) Intro\n(03:20) DeepSeek & Open Source\n(37:03) Trump Tariffs\n(50:31) DOGE\n(01:04:19) Tech and Political Uncertainty\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 65899,
+    "like_count": 1394,
+    "thumbnail": "https://i.ytimg.com/vi_webp/j8chNXhA8o8/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Stargate, Executive Orders, TikTok, DOGE, Public Valuations | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "KYzYOPkxLis",
+    "url": "https://www.youtube.com/watch?v=KYzYOPkxLis",
+    "date": "2025-01-23",
+    "duration_seconds": 4269,
+    "duration_string": "1:11:09",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they are joined by a surprise guest, and discuss Stargate, executive orders, TikTok, DOGE, Public Valuations & more. Enjoy another episode of BG2!\n\n\nChapters:\n\n(00:00) Intro\n(01:21) Stargate\n(15:07) Dylan Patel and Semianalysis take on Stargate\n(17:56) Stargate\u2019s Impact on AI Competitive Landscape\n(29:03) DeepSeek\n(32:03) Special Guest Rene Haas (CEO of ARM Holdings)\n(49:46) DeepSeek continued\n(51:53) Trumps Executive Orders & Regulatory Freeze\n(54:10) Coordination in AI Legistlation\n(59:38) US National Debt and Balancing the Budget\n(1:01:08) TikTok\n(1:05:48) Tech Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nRene Haas @renehaas237 https://x.com/renehaas237\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 67706,
+    "like_count": 1590,
+    "thumbnail": "https://i.ytimg.com/vi_webp/KYzYOPkxLis/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Market Predictions, Rates & Inflation, DOGE, CES, AI Compute | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "yPD1qEbeyac",
+    "url": "https://www.youtube.com/watch?v=yPD1qEbeyac",
+    "date": "2025-01-11",
+    "duration_seconds": 4992,
+    "duration_string": "1:23:12",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss Brad\u2019s public market predictions, AI enthusiasm and fears, interest rates, inflation, DOGE, federal budget analysis, big tech capex, scaling inference, Satya Nadella, Jensen Huang, Elon Musk, AI reasoning models, chain of thought,  & more. Enjoy another episode of BG2!\n\nTimestamps:\n\n(00:00) Intro\n(02:58) Frontline Ideas for 2025\n(07:02) The Bogeyman (Interest Rates and Inflation)\n(09:21) Mega Cap Valuations & Expectations\n(14:02) Big Tech CapEx\n(16:51) Scaling Inference\n(20:11) Future of AI\n(39:50) Role of Power in AI Development\n(42:58) Interest Rates & Economic Growth\n(45:11) Federal Spending & DOGE\n(54:15) Regulatory Landscape for AI\n(01:01:27) Co-opetition in AI\n(01:17:06) Reasoning Models & Chain of Thought\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 85121,
+    "like_count": 1957,
+    "thumbnail": "https://i.ytimg.com/vi_webp/yPD1qEbeyac/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "BG2 Rewind: 2024 Year-End Highlights",
+    "video_id": "DoitlIIsOW4",
+    "url": "https://www.youtube.com/watch?v=DoitlIIsOW4",
+    "date": "2025-01-06",
+    "duration_seconds": 1016,
+    "duration_string": "16:56",
+    "description": "Memorable moments from the first year of BG2 pod. \n\nOpen Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism.Enjoy another episode of BG2!\n\nTimestamps:\n\n(00:00) Intro\n(00:18) Evolution of BG2 theme\n(00:33) Ep 1\n(01:12) Ep 2  feat. Aaron Levie\n(01:36) Ep 3\n(02:43) Ep 4\n(02:59) Ep 5 feat. Bob Mylod\n(03:48) Ep 6\n(04:25) Ep 7\n(04:43) Ep 8 feat. Sunny Madra\n(05:19) Ep 9\n(06:47) Ep 10\n(07:21) Ep 12\n(08:09) Ep 13\n(08:45) Ep 15 - Inside Diablo Canyon Nuclear Power Plant\n(09:31) Ep 17 feat. Jensen Huang\n(11:08) Ep 18 feat. Sunny Madra\n(11:38) Ep 19 feat. Jamin Ball\n(12:29) Ep 20\n(14:07) Ep 21\n(14:38) Ep 22 feat. Satya Nadella\n(15:47) Ep 23 feat. Dylan Patel\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 10697,
+    "like_count": 306,
+    "thumbnail": "https://i.ytimg.com/vi_webp/DoitlIIsOW4/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "AI Semiconductor Landscape feat. Dylan Patel | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "QVcSBHhcFbg",
+    "url": "https://www.youtube.com/watch?v=QVcSBHhcFbg",
+    "date": "2024-12-23",
+    "duration_seconds": 5382,
+    "duration_string": "1:29:42",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they are joined by Dylan Patel, Founder & Chief Analyst at SemiAnalysis, to discuss origins of SemiAnalysis, Google's AI workload, NVIDIA's competitive edge, the shift to GPUs in data centers, the challenges of scaling AI pre-training, synthetic data generation, hyperscaler capital expenditures, the paradox of building bigger clusters despite claims that pretraining is obsolete, inference-time compute, NVIDIA's comparison to Cisco, evolving memory technology, chip competition, future predictions, & more. Enjoy another episode of BG2!\n\nTimestamps:\n(00:00) Intro\n(01:50) Dylan Patel Backstory\n(02:36) SemiAnalysis Backstory\n(04:18) Google's AI Workload\n(06:58) NVIDIA's Edge\n(10:59) NVIDIA's Incremental Differentiation\n(13:12) Potential Vulnerabilities for NVIDIA\n(17:18) The Shift to GPUs: What It Means for Data Centers\n(22:29) AI Pre-training Scaling Challenges\n(29:43) If Pretraining Is Dead, Why Bigger Clusters?\n(34:00) Synthetic Data Generation\n(36:26) Hyperscaler CapEx\n(38:12) Pre-training and Inference-tIme Reasoning\n(41:00) Cisco Comparison to NVIDIA\n(44:11) Inference-time Compute\n(53:18) The Future of AI Models and Market Dynamics\n(01:00:58) Evolving Memory Technology\n(01:06:46) Chip Competition\n(01:07:18) AMD\n(01:10:35) Google\u2019s TPU\n(01:14:51) Amason\u2019s Tranium\n(01:17:33) Predictions for 2025 and 2026\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nDylan Patel @dylan522p https://x.com/dylan522p\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 139706,
+    "like_count": 3269,
+    "thumbnail": "https://i.ytimg.com/vi_webp/QVcSBHhcFbg/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Satya Nadella | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "9NtsnzRFJ_o",
+    "url": "https://www.youtube.com/watch?v=9NtsnzRFJ_o",
+    "date": "2024-12-12",
+    "duration_seconds": 5081,
+    "duration_string": "1:24:41",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they are joined by Satya Nadella, CEO of Microsoft, to discuss becoming Microsoft\u2019s CEO, Advice for CEO\u2019s, Microsoft\u2019s Investment in OpenAI, Legacy Search, Ten Blue Links, Consumer and Enterprise AI, The Future of AI Agents, Infinite Memory, CoPilot, Microsoft\u2019s Capital Expenditure, Open AI\u2019s future, AI safety & more. Enjoy another episode of BG2.\n\nTimestamps:\n(00:00) Intro\n(01:31) Becoming Microsoft CEO\n(06:42) Satya\u2019s Memo to CEO Committee\u00a0\n(10:42) Satya\u2019s Advantage as a CEO\n(11:34) Advice for CEOs\n(15:01) Microsoft\u2019s Investment in OpenAI\n(19:42) AI Arms Race\n(23:55) Legacy Search and Consumer AI\n(28:07) The Future of AI Agents\n(38:32) Near-Infinite Memory\n(39:47) Copilot Approach to AI Adoption\n(50:26) Leveraging AI within Microsoft\n(56:03) CapX\n(01:00:20) The Cost of Model Scaling and Inference\n(01:15:15) Open AI Conversion to Profit\n(01:18:05) Next Steps for OpenAI\n(01:19:43) Open vs. Closed and Safe AI\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\u2060\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 259165,
+    "like_count": 4414,
+    "thumbnail": "https://i.ytimg.com/vi_webp/9NtsnzRFJ_o/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "BG2 Thanksgiving Roundtable: DOGE, EV Tax Credit, Tariffs, Conspiracy Theories, Invest America",
+    "video_id": "-7bJtS7koQM",
+    "url": "https://www.youtube.com/watch?v=-7bJtS7koQM",
+    "date": "2024-11-27",
+    "duration_seconds": 2647,
+    "duration_string": "44:07",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they get in the Thanksgiving spirit, and discuss China, DOGE, Governor Newsom\u2019s EV Tax Credit, Service Titan IPO, FedNow, Tariffs, Anthropic Open Source, Warren Buffet\u2019s Thanksgiving letter, Conspiracy Theories, Invest America, & more. Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Intro\n(01:40) Innovation in China & U.S. Competitiveness\n(05:43) DOGE & Balancing the Budget\n(10:43) Service Titan IPO & \u201cCompounding Ratchet\u201d\n(15:36) Gov Newsom Attack on Tesla\n(18:33) FedNow + Innovations in Payment Systems\n(23:44) Tariffs as Negotiation Tactics\n(27:36) Anthropic Open Source AI\n(30:39) Warren Buffett's Philanthropy\n(40:06) Invest America\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 40907,
+    "like_count": 1053,
+    "thumbnail": "https://i.ytimg.com/vi_webp/-7bJtS7koQM/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep20. AI Scaling Laws, DOGE, FSD 13, Trump Markets | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "SewIKjE1Lec",
+    "url": "https://www.youtube.com/watch?v=SewIKjE1Lec",
+    "date": "2024-11-21",
+    "duration_seconds": 3792,
+    "duration_string": "1:03:12",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss AI Scaling Laws, the future of inference, AI memory and actions, National Full Self-Driving Regulations, FSD 13, Robotaxi and Waymo, Department of Government Efficiency (DOGE), & more. Enjoy another episode of BG2.\n\nTimestamps:\n(00:00) Intro\n(02:00) AI Scaling Laws\n(05:54) Implications of AI Scaling Trends\n(12:20) The Future of Inference and Data Quality\n(17:51) AI Memory and Actions\n(21:47) National Full Self-Driving Regulation\n(23:14) FSD 13\n(29:41) Market Disruption: Winners and Losers in the Auto Industry\n(31:18) The Future of OEM\u2019s\n(40:41) Department of Government Efficiency (DOGE)\n(54:47) Tech Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\u2060",
+    "view_count": 51206,
+    "like_count": 1206,
+    "thumbnail": "https://i.ytimg.com/vi_webp/SewIKjE1Lec/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep19. State of Venture, AI Scaling, Elections | BG2 w/ Bill Gurley, Brad Gerstner, & Jamin Ball",
+    "video_id": "tBU5UPI03Rg",
+    "url": "https://www.youtube.com/watch?v=tBU5UPI03Rg",
+    "date": "2024-10-31",
+    "duration_seconds": 3979,
+    "duration_string": "1:06:19",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they are joined by Jamin Ball (Partner at Altimeter) to discuss the state of venture capital and incentives, implications of overcapitalization, the future of power law returns, AI\u2019s impact on investment strategies, the future of AI and CapEx, the market\u2019s reactions to the 2024 election, the evolution of search and AI integration, Nasa, SpaceX, & more. Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Intro\n(00:52) Bill\u2019s Dad | from Nasa to SpaceX\n(06:20) State of VC and Incentives w/ Jamin Ball\n(12:31) Implications of Overcapitalization\n(25:08) The Future of Power Law Returns\n(38:28) The Impact of AI on Investment Strategies\n(46:00) Future of AI and Capital Expenditure\n(52:21) Market Reactions to 2024 Election\n(01:00:45) Evolution of Search and AI Integration\n\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\nJamin Ball @jaminball\u2060 https://x.com/jaminball\n\nShownotes\u00a0\n\u2060Clouded Judgement Substack\u2060: https://cloudedjudgement.substack.com/\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 47786,
+    "like_count": 864,
+    "thumbnail": "https://i.ytimg.com/vi_webp/tBU5UPI03Rg/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep18. Jensen Recap - Competitive Moat, X.AI, Smart Assistant | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "Z77jZkYDpIE",
+    "url": "https://www.youtube.com/watch?v=Z77jZkYDpIE",
+    "date": "2024-10-13",
+    "duration_seconds": 3247,
+    "duration_string": "54:07",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, joined by Sunny Madra (Groq) they discuss Jensen Huang\u2019s recent appearance on the podcast, including scaling intelligence towards AGI, NVIDIA's strategic positioning, the role of CUDA in the developer ecosystem, the future of inference workloads, systems-level thinking,\u00a0 Elon Musk's influence on AI development, the future of AI assistants, open vs closed AI models, safety and security in AI development, & more. Enjoy another episode of BG2.\n\nChapters\n\n(00:00) Introduction and Initial Reactions to Jensen\n(04:32) NVIDIA's Position in Accelerated Compute\n(05:11) CUDA and NVIDIA\u2019s Competitive Moat\n(12:53) Challenges to NVIDIA\u2019s Competitive Advantage\n(18:22) Future Outlook on Inference\n(24:46) The Insatiable Demand for AI and Hardware\n(27:12) Elon Musk' and X.ai\n(31:47) Scaling AI Models and Clusters\n(34:17) Economic Models and Funding in AI\n(39:08) The Future of AI Pricing and Consumption Models\n(42:25) Memory, Actions, and Intelligent Agents\n(47:08) The Role of AI in Business Productivity\n(51:03) Open vs Closed Models in AI Development\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\n#jensenhuang #nvidia #bradgerstner #billgurley #clarktang #xai #memphiscluster #elonmusk #noambrown #openai #gptstrawberry",
+    "view_count": 47813,
+    "like_count": 1002,
+    "thumbnail": "https://i.ytimg.com/vi_webp/Z77jZkYDpIE/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep17. Welcome Jensen Huang | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "bUrCR4jQQg8",
+    "url": "https://www.youtube.com/watch?v=bUrCR4jQQg8",
+    "date": "2024-10-13",
+    "duration_seconds": 4874,
+    "duration_string": "1:21:14",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, Jensen Huang, CEO of NVIDIA, makes a guest appearance. In Bill\u2019s absence, Brad is joined by Clark Tang (Partner at Altimeter) as they discuss with Jensen scaling intelligence towards AGI, the acceleration of machine learning, NVIDIA's competitive advantages, the significance of inference alongside training, future market dynamics in the AI landscape, the impact of AI on various industries, the future of work, inference time reasoning, AI\u2019s potential to enhance productivity, the balance between open source and closed source, Elon\u2019s Memphis Supercluster, X.ai, OpenAI, the safe development of AI, & more. Enjoy another episode of BG2.\n\n\nChapters\n\n(00:00) Introduction\n(1:50) The Evolution of AGI and Personal Assistants\n(06:03) NVIDIA's Competitive Moat\n(15:51 ) The Future of Inference and Training in AI\n(19:01) Building the AI Infrastructure\n(31:35) Inventing a New Market in an AI Future\n(38:40) The Impact of OpenAI\n(43:25) The Future of AI Models\n(46.44) X.ai and Memphis Supercluster\n(51:21) Distributed Computing and Inference Scaling\n(55:54) Inference Time Reasoning and Its Importance\n(01:00:46) AI's Role in Growing Business and Improving Productivity\n(01:08:00) Ensuring Safe AI Development\n(01:12:31)The Balance of Open Source and Closed Source AI\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\n#jensenhuang #nvidia #bradgerstner #billgurley #clarktang #xai #memphiscluster #elonmusk #noambrown #openai #gptstrawberry",
+    "view_count": 228023,
+    "like_count": 4883,
+    "thumbnail": "https://i.ytimg.com/vi_webp/bUrCR4jQQg8/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep16. Nuclear Update, AI Fast & Furious, State of VC | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "D7ZKbMWUjsM",
+    "url": "https://www.youtube.com/watch?v=D7ZKbMWUjsM",
+    "date": "2024-09-25",
+    "duration_seconds": 3966,
+    "duration_string": "1:06:06",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss private sector interest in nuclear energy, AI supply and demand, OpenAI Strawberry o1,inference constraints, the evolution of AI models, the state of VC, zombiecorns, & more. Enjoy another episode of BG2.\n\nTimestamps:\n(00:00) Intro\n(00:36) The U.S. Nuclear Renaissance\n(08:15) AI Fast and Furious\n(11:19) OpenAI Strawberry o1\n(17:15) Inference Constraints\n(20:18) Open AI Breaking Out\n(35:00) State of VC\n(43:52) \u201cQuasi-Public Companies\u201d\n(48:32) Liquidity / IPOs\n(58:41) Tech Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\n\nBG2 Pod @bg2pod \u2060https://x.com/BG2Pod\u2060",
+    "view_count": 45303,
+    "like_count": 894,
+    "thumbnail": "https://i.ytimg.com/vi_webp/D7ZKbMWUjsM/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep15: Inside Diablo Canyon Nuclear Power Plant | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "TYCTfrec6FE",
+    "url": "https://www.youtube.com/watch?v=TYCTfrec6FE",
+    "date": "2024-09-09",
+    "duration_seconds": 4730,
+    "duration_string": "1:18:50",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they sit down with Maureen Zawalick (Vice President at Diablo Canyon Power Plant) to discuss the importance of nuclear power, the history and future of Diablo Canyon Power Plant, the role of AI in the nuclear industry, the cost differential of nuclear energy in the US and China, Gen 4 reactors, regulation, litigation, & more. Enjoy another episode of BG2.\n\nTimestamps:\n(00:00) Intro\n(04:14) Maureen Zawalick | VP at Diablo Canyon\n(06:13) The Need for Diablo\n(10:07) The Importance of Nuclear Power\n(15:50) License Renewal and the Future of Diablo\n(18:39) Hope for Expanding Nuclear Power\n(25:22) Nuclear Waste\n(30:29) Cost Differential: US vs China\n(38:56) Factors Contributing to Cost Differential\n(45:07) Implications of China\u2019s Nuclear Leadership\n(47:42) Nuclear Energy and AI Supremacy\n(50:58) The Innovation Gap and Gen 4 Reactors\n(57:27) Overcoming Challenges\n(01:03:45) A Call for Government Support\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n****\n\nShownotes:\n\nUS Navy Nuclear Propulsion Program 2020\nhttps://www.energy.gov/sites/default/files/2021-07/2020%20United%20States%20Naval%20Nuclear%20Propulsion%20Program%20v3.pdf\n\nITIF.org - How Innovative Is China in Nuclear Power\nhttps://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/\n\nNYTimes - Nuclear Power Can Save the World\nhttps://www.nytimes.com/2019/04/06/opinion/sunday/climate-change-nuclear-power.html\n\nReuters - Constellation talking to Pennsylvania on Three Mile Island restart\nhttps://www.reuters.com/business/energy/constellation-talking-pennsylvania-three-mile-island-restart-sources-say-2024-07-02/\n\nJulie Dewahl - Nuclear Past Present Future\nhttps://juliadewahl.com/nuclear-energy-past-present-future\n\nBreakthrough Institute - China\u2019s Impressive Rate of Nuclear Construction\nhttps://thebreakthrough.org/issues/energy/chinas-impressive-rate-of-nuclear-construction\n\nNext Big Future - US Nuclear Cost 5-10x More Than China\nhttps://www.nextbigfuture.com/2023/11/us-nuclear-reactors-cost-5-to-10-times-more-than-china.html\n\nEnergy.gov - Newly Signed Bill to Boost Nuclear\nhttps://www.energy.gov/ne/articles/newly-signed-bill-will-boost-nuclear-reactor-deployment-united-states\n\nAdvanced Nuclear - Nuclear Commercial Liftoff\nhttps://t.co/I156PormsH\n\nLA Times - Loan to keep Diablo Canyon nuclear plant open\nhttps://lat.ms/3TJF9Tx\n\nSouth Korea Builds Nuclear Plants Quickly and Cheaply\nhttps://brief.bismarckanalysis.com/p/south-korea-builds-nuclear-plants?utm_campaign=post&utm_medium=web\n\nNuclear Power in South Korea\nhttps://world-nuclear.org/information-library/country-profiles/countries-o-s/south-korea\n\nWestinghouse Electric's Chinese 'Trojan Horse'\nhttps://www.forbes.com/sites/kenrapoza/2016/05/17/westinghouse-electrics-chinese-trojan-horse/\n\nFriends of the Earth sues DOE over Billion Dollar Award to Diablo Canyon\nhttps://foe.org/news/lawsuit-doe-diablo-canyon/\n\nRevitalizing America\u2019s Nuclear Energy Supply Chain\nhttps://www.thirdway.org/blog/revitalizing-americas-nuclear-energy-supply-chain\n\nIdaho Natl Laboratory - Recommendations to Improve the Nuclear Regulatory Commission Reactor Licensing and Approval Process\nhttps://inldigitallibrary.inl.gov/sites/sti/sti/Sort_65730.pdf\n\n5 charts to explain why nuclear power is making a comeback:\nhttps://www.semafor.com/article/05/17/2023/nuclear-power-comeback-charts\n\nPodcast - The cost of nuclear - Catalyst w/ Shayle Kann\nhttps://apple.co/47noXNk\n\nRIC 2024 Opening Session - Remarks by NRC Chair Christopher T. Hanson\nhttps://www.youtube.com/watch?v=pLnVoB_ha58\n\nA One-on-One with NRC Chair Christopher Hanson\nhttps://youtu.be/ThPIfFqeKRQ?si=Lo8txUlURFuAN4YE\n\nBill Gates on Bipartisan Support for Nuclear Power\nhttps://www.youtube.com/watch?v=2FSVg6heBiE\n\nPodcast w/ PG&E CEO Patricia Poppe\nhttps://apple.co/3zjEqB9\n\nGermany Reacts to Trump's UNGA Speech\nhttps://www.youtube.com/watch?v=FfJv9QYrlwg\n\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 40167,
+    "like_count": 1140,
+    "thumbnail": "https://i.ytimg.com/vi_webp/TYCTfrec6FE/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep14. Public Market Volatility, AI Air Pocket, $GOOG Ruling | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "5LYZCoDysLs",
+    "url": "https://www.youtube.com/watch?v=5LYZCoDysLs",
+    "date": "2024-08-09",
+    "duration_seconds": 5151,
+    "duration_string": "1:25:51",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss the Public Market Volatility, AI Air Pocket, $GOOG Ruling, Search GPT & more Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Intro\n(02:27) Public Market Reset \n(13:04) Corporate and Individual Tax Cut Expiration\n(16:40) Indicators of Economic Health\n(30:40) AI Air Pocket\n(46:02) Japan Yen Carry Trade\n(50:34) Navigating Market Volatility \n(56:30) $GOOG Ruling & Monopoly Status \n(01:05:21) Search GPT and Evolving AI Landscape\n(1:18:17) The Need for Regulatory Clarity in AI\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 64079,
+    "like_count": 1463,
+    "thumbnail": "https://i.ytimg.com/vi_webp/5LYZCoDysLs/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep13. Silicon Valley\u2019s Political 180, META AI, COVID Postmortem | BG2 w/ Bill Gurley & Brad Gerstner",
+    "video_id": "o9e1SDPc6Pc",
+    "url": "https://www.youtube.com/watch?v=o9e1SDPc6Pc",
+    "date": "2024-07-25",
+    "duration_seconds": 4657,
+    "duration_string": "1:17:37",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss Silicon Valley\u2019s Political 180, META\u2019s Open AI disruption, the importance of a COVID Postmortem and Dr. Jay Bhattacharya, Wiz IPO, FSD 12.5, Crowdstrike, & more. Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Intro\n(01:38) The Perceived Political Realignment in Silicon Valley\n(18:02) Engagement Between Silicon Valley and Washington\n(27:21) Meta's Open Source Strategy (405b)\n(47:37) Post-Mortem on the COVID-19 Pandemic\n(58:37) Wiz IPO and Acquisitions\n(01:03:37) The Impact of AI on Self-Driving Cars\n(01:10:33) Lessons from the CrowdStrike Incident\n(01:16:11) Spotify's Success under Daniel Ek \n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n\n****\n\nShownotes\n\nOpen Source AI Is the Path Forward - Letter by Mark Zuckerberg\nhttps://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/\n\nMisha Laskin on Training Data Podcast\nhttps://www.sequoiacap.com/podcast/misha-laskin-reflection/\n\nFreda Duan tweet on self-driving cars in China:\nhttps://x.com/FredaDuan/status/1807982122046484753\n\nDr. Jay Bhattacharya on Tetragrammaton with Rick Rubin\nhttps://open.spotify.com/episode/13BfrVQYfyoo6eyeJPhboe?si=a9b3dab60af44faf\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 64140,
+    "like_count": 1333,
+    "thumbnail": "https://i.ytimg.com/vi_webp/o9e1SDPc6Pc/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep12. Tech Stocks vs the Rest; AI VC Bubble, Calcium CT Scan | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "-8rMn2pk5qU",
+    "url": "https://www.youtube.com/watch?v=-8rMn2pk5qU",
+    "date": "2024-07-11",
+    "duration_seconds": 3449,
+    "duration_string": "57:29",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they discuss the looming presidential election and its impact on public market tech funds, public market dispersion, AI hype versus reality, Calcium CT scans, and more. Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Intro\n(03:50) Public Market Dispersion (Mag 7 + Consumer Stocks)\n(22:05) AI Costs vs AI Revenue\n(47:25) Calcium CT Scans\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n\nShownotes:\n\nAI\u2019s $600B Question by David Cahn\nhttps://www.sequoiacap.com/article/ais-600b-question/\n\nWidowmaker Documentary\nhttps://www.youtube.com/watch?v=7OKrg_IlZao&t=3732s",
+    "view_count": 47447,
+    "like_count": 1033,
+    "thumbnail": "https://i.ytimg.com/vi_webp/-8rMn2pk5qU/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep11. Coatue Conference Recap, Tesla & ISS Controversy | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "Xuurlc-V2Jg",
+    "url": "https://www.youtube.com/watch?v=Xuurlc-V2Jg",
+    "date": "2024-06-22",
+    "duration_seconds": 3716,
+    "duration_string": "1:01:56",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they recap Coatue Conference and discuss Elon\u2019s pay package, Tesla's shareholder vote, ISS controversy, AI market trends, OpenAI IPO, Delaware court case, and more. Enjoy another episode of BG2.\n\nTimestamps:\n\n(00:00) Overview of Coatue\u2019s East Meets West Conference\n(5:05) AI and Market Trends\n(18:17) Insights on Venture Markets and IPOs \n(24:15) Challenges and Opportunities in Going Public \n(30:05) The Case for OpenAI Going Public\n(33:03) Challenges and Considerations for IPOs\n(35:55) SPECIAL GUEST: Coatue Founder Phillipe Laffont\n(39:27) AI Startups Staying Lean\n(42:31) AI Agents and the Future of Work\n(45:28) Tesla's Shareholder Vote and ISS Controversy \n(50:57) Delaware's Legal Precedent and Corporate Implications \n(58:27) Globalization and Competitive Advantage\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 58657,
+    "like_count": 1337,
+    "thumbnail": "https://i.ytimg.com/vi_webp/Xuurlc-V2Jg/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep10. Pre-IPO Market, AI Hype Cycle, Is Software Dead? | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "nrDudJtKpiE",
+    "url": "https://www.youtube.com/watch?v=nrDudJtKpiE",
+    "date": "2024-06-10",
+    "duration_seconds": 3536,
+    "duration_string": "58:56",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss Pre-IPO market Changes, the reality versus perception of AI's future potential, the state of software, the impact of excess capital in the late-stage market, the importance of capitalism and immigration for the future of the United States, and more. Enjoy another episode of Bg2.\n\nTimestamps:\n\n(00:00) Intro\n(02:16) Letter from Brad\u2019s Mom\n(07:28) The Changing Landscape of the Pre-IPO Market\n(24:50) AI Hype Cycle\n(33:19) Is Software Dead?\n(37:03) The Impact of Excess Capital in the Late-Stage Market\n(42:18) How AI Spending Affects Investments\n(54:52) Opportunities for Investments in the Public Markets\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 53574,
+    "like_count": 1232,
+    "thumbnail": "https://i.ytimg.com/vi_webp/nrDudJtKpiE/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep9. GPT-4o, Astra, Multi Modal, China Tariffs, Tech Earnings | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "oHYoSBixdPI",
+    "url": "https://www.youtube.com/watch?v=oHYoSBixdPI",
+    "date": "2024-05-16",
+    "duration_seconds": 3683,
+    "duration_string": "1:01:23",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss OpenAI ChatGPT-4o, Astra, Consumer AI, Enterprise AI, China Tariffs, Trade Regulation, the tech markets, and more. Enjoy another episode of Bg2.\n\nTimestamps:\n\n(00:00) Intro\n(00:40) Open AI Launches GPT-4 Omni\n(10:29) Chat GPT-4o Benchmarks\n(14:11) Voice as the New GUI\n(20:01) Breakout Power of ChatGPT\n(22:09) Consumer AI vs Enterprise AI Landscape\n(27:51) AI Disruption\n(35:45) Regulation & Industrial Policy\n(43:47) China Tariffs\n(53:15) Tech Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nBG2 Pod @bg2pod https://x.com/BG2Pod\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 58770,
+    "like_count": 1267,
+    "thumbnail": "https://i.ytimg.com/vi_webp/oHYoSBixdPI/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep8. AI Models, Data Scaling, Enterprise & Personal AI | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "iTwZzUApGkA",
+    "url": "https://www.youtube.com/watch?v=iTwZzUApGkA",
+    "date": "2024-04-29",
+    "duration_seconds": 3907,
+    "duration_string": "1:05:07",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, joined by Sunny Madra (Head of Groq Cloud) they discuss AI Models, Data Scaling, Enterpise AI, Personal AI, the tech markets, and more. Enjoy another episode of Bg2.\n\nTimestamps:\n\n(00:00) Intro\n(01:10) $META Llama 3\n(20:40) Enterprise AI\n(36:50) Personal AI\n(50:07) $TSLA Earnings Call & Rideshare\n(52:10) Tech Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://x.com/altcap\nBill Gurley @bgurley https://x.com/bgurley\nSunny Madra @sundeep https://x.com/sundeep\nBG2 Pod @bg2pod https://x.com/BG2Pod",
+    "view_count": 70788,
+    "like_count": 1709,
+    "thumbnail": "https://i.ytimg.com/vi_webp/iTwZzUApGkA/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep7. The Great IPO Debate, Tesla Robotaxi v Uber, Tech Check | BG2 with Bill Gurley & Brad Gerstner",
+    "video_id": "D4BQCaVMjg4",
+    "url": "https://www.youtube.com/watch?v=D4BQCaVMjg4",
+    "date": "2024-04-18",
+    "duration_seconds": 4702,
+    "duration_string": "1:18:22",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss The Great IPO Debate, Tesla Robotaxi vs. Uber, and a Tech Check. Enjoy another episode of Bg2.\n\nTimestamps:\n00:00 Introduction + Eclipse\n01:56 The Great IPO Debate\n41:33 Tesla Robotaxi vs. Uber\n01:10:27 Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap\nBill Gurley @bgurley https://twitter.com/bgurley\nBG2 Pod @bg2pod https://twitter.com/BG2Pod\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 66598,
+    "like_count": 1494,
+    "thumbnail": "https://i.ytimg.com/vi_webp/D4BQCaVMjg4/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep6. AI Demand / Supply - Models, Agents, the $2T Compute Build Out, Need for More Nuclear & More",
+    "video_id": "g1C_5cbKd5E",
+    "url": "https://www.youtube.com/watch?v=g1C_5cbKd5E",
+    "date": "2024-04-04",
+    "duration_seconds": 4109,
+    "duration_string": "1:08:29",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss the challenge of forecasting the AI Supercycle, Stargate and the massive AI supercomputer build out,  AI demand overhyped or underhyped, and current market valuations. Enjoy another episode of Bg2.\n\nTimestamps:\n0:00 Intro\n2:49 Demand for Compute Is Virtually Unlimited\n27:53 Everywhere we Look we are building more and bigger Supercomputers \n35:49 The AI Induced Power Gap & The Need for Nuclear\n50:21 Valuations / Market Check\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap\nBill Gurley @bgurley https://twitter.com/bgurley\nBG2 Pod @bg2pod https://twitter.com/BG2Pod\n\nShownotes:\nWhat's next for AI agents ft. LangChain's Harrison Chase: https://www.youtube.com/watch?v=pBBe1pk8hf4\nTesla FSD Model 12: https://twitter.com/bg2pod/status/1769378291658666226?s=46&t=tiuRwY6s_lj81akJSCmJkw\nSam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419: Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419\nOpenAI CEO on GPT-4 vs GPT-5 | Sam Altman and Lex Fridman: https://www.youtube.com/watch?v=CJEC0aAjRJE \nJevons Paradox: https://en.wikipedia.org/wiki/Jevons_paradox \nMSFT and OpenAI $100bn supercomputer project: https://twitter.com/theinformation/status/1773798028907811059?s=20\nBiden administration on how to generate more electricity to meet massive demand for AI computing: https://twitter.com/axios/status/1774758834952659223?s=20 \nNuclear reactors planned and proposed: https://world-nuclear.org/information-library/current-and-future-generation/plans-for-new-reactors-worldwide.aspx \nU.S. approves $1.5bn loan to restart Michigan nuclear plant: https://www.nytimes.com/2024/03/27/business/energy-environment/holtec-palisades-nuclear-plant-loan.html \nJosh Wolfe\u2019s talk to Congress: https://twitter.com/wolfejosh/status/1685323817521139712 \nOur World in Data - cleanest and safest sources of energy: https://ourworldindata.org/safest-sources-of-energy \nHow Regulation killed Supersonic: https://www.heritage.org/transportation/commentary/its-time-let-supersonic-flight-soar-again\nNatural gas is stronger in the U.S.: https://www.iea.org/commentaries/natural-gas-is-now-stronger-than-ever-in-the-united-states-power-sector \nBaseload in the U.S. has been flat for many years: https://energytransition.nema.org/baseload-generation/ \nAmazon goes nuclear: https://www.theregister.com/2024/03/04/amazon_acquires_cumulus_nuclear_datacenter/ \nI-95 Bridge reopened in 12 days: https://www.bloomberg.com/news/articles/2023-06-28/resurrection-of-i-95-in-just-two-weeks-is-dubbed-small-miracle?embedded-checkout=true \nSF cleaned up in a week: https://www.smh.com.au/world/north-america/sanfran-s-mean-streets-become-clean-streets-for-biden-xi-and-co-20231116-p5ekd0.html \nTexas trumps California as key US energy transition driver:https://www.reuters.com/markets/commodities/texas-trumps-california-key-us-energy-transition-driver-2023-05-04/ \nBrad\u2019s tweet on CT scan: https://twitter.com/altcap/status/1774919531414368402?s=20\nAmericans favor more nuclear energy: https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/ \nProducing new nuclear plants have gone down in France and up in the U.S. tweet: https://twitter.com/cremieuxrecueil/status/1773221106591166946?s=46&t=832RL3Gm0XtyDEuhy-Gkzg \nGenAI company revenue multiples tweet: https://twitter.com/asanwal/status/1772821841578754492?s=46&t=832RL3Gm0XtyDEuhy-Gkzg \nGurley\u2019s tweet on 60x reduction from top model: https://twitter.com/bgurley/status/1774896120310686003?s=20 \nCongress provides record funding for fusion energy:https://www.fusionindustryassociation.org/congress-provides-record-funding-for-fusion-energy/ \n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 57363,
+    "like_count": 1379,
+    "thumbnail": "https://i.ytimg.com/vi_webp/g1C_5cbKd5E/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep5. Stock Comp, AI Cold War, Valuations for LLM | BG2 with Bill Gurley, Brad Gerstner, & Bob Mylod",
+    "video_id": "YPt6Cs1hd2k",
+    "url": "https://www.youtube.com/watch?v=YPt6Cs1hd2k",
+    "date": "2024-03-21",
+    "duration_seconds": 5215,
+    "duration_string": "1:26:55",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, joined by Bob Mylod, (Chair of Board, Bookings.com & Managing Partner of Annox Capital) they discuss stock compensation, Google Gemini / Apple, TikTok US & the New AI Cold War, MSFT / Inflection & VC Valuations for LLM\u2019s. Enjoy another episode of Bg2.\n\nTimestamps:\n(0:00) Intro \n(2:07) Bob Mylod | Stock-Based Compensation\n(58:03) Apple's Potential Partnership with Google on AI\n(1:04:00) Tiktok The Future of TikTok in the US\n(01:12:34) Microsoft's Acquisition of Inflection\n(01:18:06) The Durability of LLM Business Models\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, \u2060www.bg2pod.com\u2060\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap\nBill Gurley @bgurley https://twitter.com/bgurley\nBG2 Pod @bg2pod https://twitter.com/BG2Pod\n\nShownotes: \nBookings 2023 Notice of Annual Stockholders\u2019 Meeting and Proxy Statement June 2023 (page 63 for Stock-Based Compensation Expense as a % of net cash provided by operating activities) https://bit.ly/3ISIauw\nMichael Mauboussin - Stock-Based Compensation Paper: https://mgstn.ly/4cshBKn\nTom Hearden Tweet: https://bit.ly/4cqCoxQ\nApoorv Agarwal Tweet: https://bit.ly/3VumL2G\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 62965,
+    "like_count": 1416,
+    "thumbnail": "https://i.ytimg.com/vi_webp/YPt6Cs1hd2k/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "Ep4. Tesla FSD 12, Imitation AI Models, Open vs Closed AI Models, Delaware vs Elon, & Market Update",
+    "video_id": "bD1rrBBcJSA",
+    "url": "https://www.youtube.com/watch?v=bD1rrBBcJSA",
+    "date": "2024-03-07",
+    "duration_seconds": 3823,
+    "duration_string": "1:03:43",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss Tesla\u2019s Full Self-Driving V12 and imitation learning, AI model improvements: open vs. closed, & more. Enjoy another episode of Bg2.\n\nTimestamps:\n\n(0:00) Intro + Phase Shifts\n(3:42)Tesla FSD 12 & Imitation Learning\n(28:32) AI Model Improvements | Open vs Closed Models\n(49:10) Elon Musk Delaware Court Case\n(58:30) Macro Market Outlook\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.bg2pod.com\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap\nBill Gurley @bgurley https://twitter.com/bgurley\nBG2 Pod @bg2pod https://twitter.com/BG2Pod\n\nShownotes:\nElon Musk FSD 12 Livestream https://www.youtube.com/watch?v=u_XRybdNq2AFSD V12\nGeneral Magic | Full Documentary https://youtu.be/JQymn5flcek?si=9Sjo8lW-Q5ENV1cj\nTesla FSD Data Upload | Reddit Forum https://bit.ly/3wKQYjB\nFSD Beta - 100GB+ in 30 days https://bit.ly/49YU3L6\nCheng Chi - Open Source AI in Robotics https://bit.ly/3T9D95w\nAnthropic Claude 3 benchmarks https://bit.ly/3IsM8dc\nAmazon Bedrock https://bit.ly/3P9TE0h\nAI group chat matrix https://x.com/netcapgirl/status/1764360362680279174?s=20\nMichael Totten article RT by Pinker https://www.city-journal.org/article/something-like-fire\nPolitico - Billionaire-backed AI advisers take over Washington https://bit.ly/3uWWU8D\nMartin Casado Tweet - AI / Manhattan project https://bit.ly/3V85090\nMorning Brew tweet - Elon Musk vs Delaware https://bit.ly/3wKRbTV\nInstitute for New Economic Thinking - CEO Pay https://bit.ly/436DJWm\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 92549,
+    "like_count": 3002,
+    "thumbnail": "https://i.ytimg.com/vi_webp/bD1rrBBcJSA/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "BG2 w/ Bill Gurley & Brad Gerstner | NVDA, Chips, AI Compute Build Out, AI Impact on Big Tech | E03",
+    "video_id": "-i9AGk3DJ90",
+    "url": "https://www.youtube.com/watch?v=-i9AGk3DJ90",
+    "date": "2024-02-22",
+    "duration_seconds": 4907,
+    "duration_string": "1:21:47",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss earnings, inflation, interest rates, the impact of AI on Big Tech, NVDA, chips, fabs, Altman\u2019s $7T to meet AI Compute needs, & more. Enjoy another episode of Bg2.\n\nTimestamps:\n\n(0:00) Introduction\n(3:14) Earnings / Inflation / Rates\n(10:16) Impact of AI on Google / Meta \n(32:47) Why not also MSFT/Apple/Amazon?\n(57:06) Chips, Fabs, Future Compute Needs\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.linktr.ee/bg2pod\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap\nBill Gurley @bgurley https://twitter.com/bgurley\nBG2 Pod @bg2pod https://twitter.com/BG2Pod\n\nShownotes:\n\nTSMC founder Morris Chang on the evolution of the semiconductor industry https://youtu.be/r_8XClnnvIk?si=rAylAfxpJa0kHiNv\n\n#BillGurley #BradGerstner #Bg2Pod",
+    "view_count": 109548,
+    "like_count": 2661,
+    "thumbnail": "https://i.ytimg.com/vi_webp/-i9AGk3DJ90/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "BG2 with Bill Gurley, Brad Gerstner & Aaron Levie | Software Valuations, Earnings, Immigration | E02",
+    "video_id": "xgvoYJvbNT8",
+    "url": "https://www.youtube.com/watch?v=xgvoYJvbNT8",
+    "date": "2024-02-08",
+    "duration_seconds": 5108,
+    "duration_string": "1:25:08",
+    "description": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week we are joined by Box Co-Founder & CEO, Aaron Levie. They discussed software valuations, public markets earnings, all things AI and legal immigration. Enjoy another Episode of Bg2.\n\nTimestamps:\n\n(0:00) Introduction\n(3:58) Software Valuations/Multiples\n(28:39) Public Markets Earnings Breakdown\n(43:04) All Things AI\n(1:15:00) Legal Immigration\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\nAvailable on Apple, Spotify, www.linktr.ee/bg2pod\n\nFollow:\nBrad Gerstner @altcap https://twitter.com/altcap \nBill Gurley @gurley https://twitter.com/bgurley \nAaron Levie @levie https://twitter.com/levie  \nBG2 Pod @bg2pod https://twitter.com/BG2Pod",
+    "view_count": 46675,
+    "like_count": 993,
+    "thumbnail": "https://i.ytimg.com/vi_webp/xgvoYJvbNT8/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  },
+  {
+    "title": "BG2 with Bill Gurley & Brad Gerstner | MANG VC Gone Wild, Can You Trust AI Valuations? & More | E01",
+    "video_id": "Wu_LF-VoB94",
+    "url": "https://www.youtube.com/watch?v=Wu_LF-VoB94",
+    "date": "2024-01-25",
+    "duration_seconds": 4180,
+    "duration_string": "1:09:40",
+    "description": "Open Source weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. The rumors were true. Enjoy another Episode of Bg2.\n\nAvailable on Apple, Spotify, www.linktr.ee/bg2pod\n\n(0:00) Introduction and discussion on current market trends\n(3:12) Main topic: AI and its recent surge in venture capital investing\n(14:04) Discussion on the potential issues in AI companies\n(25:00) Analysis of public software valuations and their implications\n(33:01) Future of investing in tech companies\n(38:27) State of startups and challenges in raising capital\n(46:37) Comparing the 1999 bubble to the current economic situation\n(54:45) Analyzing Javier Milei's Speech at Davos\n(1:01:20) Historical examples of the effects of open and closed economies\n(1:09:09) Conclusion and farewell\n\nProduced by Benny Beausoleil\nMusic by Yung Spielberg\n\n#BillGurley #BradGerstner #BG2pod",
+    "view_count": 81290,
+    "like_count": 1906,
+    "thumbnail": "https://i.ytimg.com/vi_webp/Wu_LF-VoB94/maxresdefault.webp",
+    "tags": [
+      "ideas_and_outlook"
+    ],
+    "guests": []
+  }
+]
