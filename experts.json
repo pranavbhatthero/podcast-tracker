@@ -2,7 +2,7 @@
   {
     "id": "chamath",
     "name": "Chamath Palihapitiya",
-    "aliases": ["Chamath", "Chamath Poly", "Chimath"],
+    "aliases": ["Chamath", "Chamath Poly", "Chimath", "Chamath Palihapitiya"],
     "role": "Venture capitalist, Social Capital founder",
     "own_channels": [
       "https://www.youtube.com/@allin"
@@ -60,7 +60,7 @@
   {
     "id": "brad_gerstner",
     "name": "Brad Gerstner",
-    "aliases": ["Brad Gerstner", "Brad", "altcap"],
+    "aliases": ["Brad Gerstner", "Brad", "altcap", "Brad Gersonner", "Brad Gershner", "Brad Gerson", "Brad Gerstner (Altimeter Capital)"],
     "role": "Founder & CEO, Altimeter Capital",
     "own_channels": [
       "https://www.youtube.com/@BG2Pod",
@@ -91,7 +91,7 @@
   {
     "id": "gavin_baker",
     "name": "Gavin Baker",
-    "aliases": ["Gavin Baker"],
+    "aliases": ["Gavin Baker", "Gavin"],
     "role": "CIO, Atreides Management",
     "own_channels": [],
     "known_podcasts": [

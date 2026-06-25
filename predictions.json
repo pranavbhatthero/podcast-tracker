@@ -1,6 +1,6 @@
 [
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "Copper will be the biggest business winner of 2026. Due to the Trump doctrine of unilateral national security and AI/data center buildout, copper is set to go parabolic. By 2040 the world will be 70% short of global copper supply at current course and speed.",
     "asset_type": "commodity",
     "ticker_or_name": "copper",
@@ -15,7 +15,7 @@
     "price_ticker": "HG=F"
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "A basket of critical metals will be the best performing asset of 2026, driven by AI infrastructure demand and the shift to unilateral national security under the Trump doctrine.",
     "asset_type": "commodity",
     "ticker_or_name": "critical metals basket (copper, lithium, rare earths)",
@@ -30,7 +30,7 @@
     "price_ticker": "CPER"
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "Amazon will have a massive year in 2026 as they replace humans with robots. They will be the first corporate singularity \u2014 the first company to have more robots driving their bottom line than humans. Jason placed a personal bet on this.",
     "asset_type": "stock",
     "ticker_or_name": "AMZN",
@@ -45,7 +45,7 @@
     "price_ticker": "AMZN"
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "Huawei will outperform western expectations in 2026. Their partnership with SMIC to go deeper in the chip stack means they are firing on all cylinders and will surprise to the upside.",
     "asset_type": "stock",
     "ticker_or_name": "Huawei (private)",
@@ -60,7 +60,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "Polymarket will have a breakout year as it evolves from a quirky prediction market into a real news and insights platform. All major exchanges (Robinhood, Coinbase, NASDAQ) will move into prediction markets following the NY deal.",
     "asset_type": "other",
     "ticker_or_name": "Polymarket (private)",
@@ -75,7 +75,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "2026 will be a big year for IPOs with trillions of dollars of new public market cap created. A big reversal of the trend of public companies being taken private.",
     "asset_type": "sector",
     "ticker_or_name": "IPO market / new public companies",
@@ -90,7 +90,7 @@
     "price_ticker": "IPO"
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "At least two of SpaceX, Stripe, Anthropic, and OpenAI will file for IPO in 2026, creating a mega-IPO year that will be gangbusters for Silicon Valley employees and pension funds.",
     "asset_type": "other",
     "ticker_or_name": "SpaceX / Stripe / Anthropic / OpenAI (pre-IPO)",
@@ -105,7 +105,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "The expanding tech supercycle will be the best performing asset class of 2026. US productivity surged 4.9% (strongest in ~6 years) and Atlanta Fed Q4 GDP now model shows 5.4% \u2014 the Trump boom is real.",
     "asset_type": "sector",
     "ticker_or_name": "US tech sector / S&P 500",
@@ -120,7 +120,7 @@
     "price_ticker": "SPY"
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "Robinhood, Polymarket, Prize Picks and the broader gambling/wagering/prediction market space will be the best performing assets of 2026 as people have cash around to make bets in a rate-cut environment. Coinbase also included.",
     "asset_type": "stock",
     "ticker_or_name": "HOOD, COIN, Polymarket",
@@ -135,7 +135,7 @@
     "price_ticker": "HOOD"
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "The US dollar will be the worst performing asset of 2026. America will add ~$2 trillion in debt this year and a potential 50% military budget increase will go straight to the debt line, debasing the dollar. People are moving to gold, silver, and copper as alternatives.",
     "asset_type": "macro",
     "ticker_or_name": "USD / US Dollar",
@@ -150,7 +150,7 @@
     "price_ticker": "UUP"
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "Hydrocarbons/oil will be a poor performing asset in 2026. Electrification and energy storage trends are unstoppable and will shrink the surface area where oil is useful. Oil is more likely to see $45/barrel than $65/barrel.",
     "asset_type": "commodity",
     "ticker_or_name": "crude oil / hydrocarbons",
@@ -165,7 +165,7 @@
     "price_ticker": "CL=F"
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "Netflix will be the worst performing asset of 2026 if they don't close the Warner Brothers deal. Their content library is shrinking as creators prefer not to work with Netflix (cost plus 10% deal terms). Challenged from all sides by deep content libraries.",
     "asset_type": "stock",
     "ticker_or_name": "NFLX",
@@ -180,7 +180,7 @@
     "price_ticker": "NFLX"
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "Traditional media stocks will continue to deeply underperform in 2026 as independent creators leveraging YouTube and other platforms commoditize content. Citizen journalism rise accelerates this trend.",
     "asset_type": "sector",
     "ticker_or_name": "traditional media stocks",
@@ -195,7 +195,7 @@
     "price_ticker": "PARA"
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "California luxury real estate will be the worst performing asset of 2026 due to the overhang of the proposed wealth seizure tax and ongoing capital exodus. If the ballot initiative fails, there may be a dead cat bounce.",
     "asset_type": "other",
     "ticker_or_name": "California luxury real estate",
@@ -210,7 +210,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "[CONTRARIAN] SpaceX will not IPO in 2026. Instead it will reverse merge into Tesla, allowing Elon Musk to consolidate control and power of his two seminal assets (SpaceX and Tesla) into one cap table. Could also include Neuralink and Boring Company.",
     "asset_type": "stock",
     "ticker_or_name": "TSLA / SpaceX",
@@ -225,7 +225,7 @@
     "price_ticker": "TSLA"
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "[CONTRARIAN] Central banks will realize limitations of both gold and Bitcoin and will seek out a completely new cryptographic paradigm they can control on their balance sheet \u2014 fungible, tradable, completely secure and private. Driven by sovereignty needs and quantum computing risk to existing crypto schemes.",
     "asset_type": "crypto",
     "ticker_or_name": "central bank digital currency / new crypto paradigm",
@@ -240,7 +240,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "[CONTRARIAN] AI will increase demand for knowledge workers, not decrease it (Jevons Paradox). As the cost of generating code falls, aggregate demand for software will rise massively. Radiologists are increasing not decreasing. Job gains, not job losses.",
     "asset_type": "sector",
     "ticker_or_name": "AI / software sector / knowledge worker employment",
@@ -255,7 +255,7 @@
     "price_ticker": "QQQ"
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "Fed rate cuts of 75-100 basis points by June 2026. Core CPI at 2.6%, 40bps below expectations. Combined with big tax refunds in April (standard deduction, no tax on tips/overtime/social security), the economic boom is incoming.",
     "asset_type": "macro",
     "ticker_or_name": "Fed funds rate / interest rates",
@@ -270,7 +270,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "US GDP growth of 5% in 2026 as part of the Trump boom. S&P 500 making record highs, real wages up, mortgage costs falling, lowest trade deficit since 2009.",
     "asset_type": "macro",
     "ticker_or_name": "US GDP / S&P 500",
@@ -285,7 +285,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "US GDP growth between 5% and 6% in 2026. If 6% is printed, it would be extraordinary \u2014 only China during total state coordination has achieved this in the modern era.",
     "asset_type": "macro",
     "ticker_or_name": "US GDP",
@@ -300,7 +300,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "US GDP growth of 4.6% in 2026.",
     "asset_type": "macro",
     "ticker_or_name": "US GDP",
@@ -315,7 +315,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "Traditional M&A is effectively dead due to antitrust and geopolitical controls. IP license deals (\u00e0 la Google/Character AI, Microsoft/Inflection, Nvidia/Grok) will replace traditional acquisitions \u2014 hundreds of billions of dollars in these deal types in 2026.",
     "asset_type": "sector",
     "ticker_or_name": "M&A / AI companies",
@@ -330,7 +330,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "One of the Mag 7 (Apple, Meta, Microsoft, or Amazon) will make a $50B+ offer to acquire XAI, Mistral, Perplexity, or Anthropic in 2026. Jason suspects Apple will be the buyer. Will likely end up as an IP license deal instead of a traditional acquisition.",
     "asset_type": "stock",
     "ticker_or_name": "AAPL / META / MSFT / AMZN acquiring AI lab",
@@ -345,7 +345,7 @@
     "price_ticker": "AAPL"
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "Enterprise SaaS companies (the software industrial complex) will be the biggest business losers of 2026. The $3-4T/year maintenance and migration market will contract aggressively as AI agents reduce the cost of these services. ServiceNow, Workday, DocuSign, Dropbox, Box already down 9-30% vs S&P +17% in 2025.",
     "asset_type": "sector",
     "ticker_or_name": "enterprise SaaS (NOW, WDAY, DOCU, DBX, BOX)",
@@ -360,7 +360,7 @@
     "price_ticker": "IGV"
   },
   {
-    "speaker": "Friedberg",
+    "speaker": "David Friedberg",
     "prediction": "State governments will struggle to access capital markets / issue bonds in 2026 due to exposure of waste/fraud/abuse and massive unrealized pension liabilities. State government bonds / municipal debt at risk.",
     "asset_type": "other",
     "ticker_or_name": "state government bonds / municipal debt",
@@ -375,7 +375,7 @@
     "price_ticker": "MUB"
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "Capital equipment sector will be a major beneficiary of 100% accelerated depreciation in 2026 (from the Big Beautiful Bill). Companies like Siemens (stock already surging), Caterpillar, and other capital equipment sellers will outperform as businesses invest heavily.",
     "asset_type": "sector",
     "ticker_or_name": "capital equipment sector (SIE, CAT, generators, tractors)",
@@ -390,7 +390,7 @@
     "price_ticker": "CAT"
   },
   {
-    "speaker": "Chamath",
+    "speaker": "Chamath Palihapitiya",
     "prediction": "Housing boom coming in 2026 for individual buyers (not corporations). If Trump prevents Blackstone from buying houses, and with interest rates 100-150bps lower, individuals will drive a boom in housing prices.",
     "asset_type": "sector",
     "ticker_or_name": "US residential real estate / homebuilders",
@@ -435,7 +435,7 @@
     "price_ticker": "BOX"
   },
   {
-    "speaker": "Aaron",
+    "speaker": "Aaron Levie",
     "prediction": "MGM stock could be worth over 100, could be worth 150. Stock is a triple from current levels due to hidden assets in Japan and Dubai",
     "asset_type": "stock",
     "ticker_or_name": "MGM Resorts",
@@ -450,7 +450,7 @@
     "price_ticker": "MGM"
   },
   {
-    "speaker": "Aaron",
+    "speaker": "Aaron Levie",
     "prediction": "MGM's Osaka, Japan casino license opening in 2030 worth about $50 per share, representing massive opportunity with Chinese gambling market being $40 billion",
     "asset_type": "stock",
     "ticker_or_name": "MGM Resorts",
@@ -465,7 +465,7 @@
     "price_ticker": "MGM"
   },
   {
-    "speaker": "Aaron",
+    "speaker": "Aaron Levie",
     "prediction": "MGM's Dubai property could add $40-50 per share if gambling is legalized there, representing a potential $50 additional upside",
     "asset_type": "stock",
     "ticker_or_name": "MGM Resorts",
@@ -2640,7 +2640,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "Chinese open-source models deliver 90% of the quality of proprietary US models at 90% price discount",
     "asset_type": "other",
     "ticker_or_name": "Chinese open-source AI models",
@@ -2655,7 +2655,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "A top three worldwide AI model will be a US-based open source model by Q4 2025 or Q1 2026, from efforts by OpenAI and Meta",
     "asset_type": "other",
     "ticker_or_name": "US open-source AI models (OpenAI, Meta)",
@@ -2685,7 +2685,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "Google's token consumption grew from 5 trillion to 1 quadrillion tokens per month in about a year; inference demand is driving massive compute expansion",
     "asset_type": "macro",
     "ticker_or_name": "AI inference computing demand",
@@ -2700,7 +2700,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "Grock's inference infrastructure experiences demand far outstripping supply; racks become fully consumed within hours",
     "asset_type": "other",
     "ticker_or_name": "Grock infrastructure demand",
@@ -6075,7 +6075,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "Capital equipment sector will be a major beneficiary of 100% accelerated depreciation in 2026 (from the Big Beautiful Bill). Companies like Siemens (stock already surging), Caterpillar, and other capital equipment sellers will outperform as businesses invest heavily.",
     "asset_type": "sector",
     "ticker_or_name": "Siemens (SIE)",
@@ -6675,7 +6675,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "The copper price is easily going to double from here, similar to how molybdenum went from $1 a pound to $33 a pound.",
     "asset_type": "commodity",
     "ticker_or_name": "copper",
@@ -6930,7 +6930,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Secondaries are now competing with IPOs and acquisitions as the principal way that these companies are exiting, with secondary transactions now at double the 2021 peak levels",
     "asset_type": "sector",
     "ticker_or_name": "Secondary Markets / Private Equity",
@@ -6945,7 +6945,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Secondaries were trading at a discount to market (80 cents on the dollar) but today are trading at a premium (106 cents on the dollar)",
     "asset_type": "sector",
     "ticker_or_name": "Secondary Markets",
@@ -6990,7 +6990,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "If you had $100,000 of fresh capital, I would not shove it all into the market today - I may put 30% to work today given we just had two of the biggest months in the last 10 years",
     "asset_type": "macro",
     "ticker_or_name": "Public Markets",
@@ -7005,7 +7005,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "We could have a normal run-of-the-mill consolidation in the public markets in the semi-index of 10 or 20%, which means high beta would be down 30 to 40%",
     "asset_type": "sector",
     "ticker_or_name": "Semiconductors",
@@ -7020,7 +7020,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Right now everything in the world of technology is pretty fully valued - you can't have the parabolic moves we've had and think that everything is cheap",
     "asset_type": "sector",
     "ticker_or_name": "Technology",
@@ -7035,7 +7035,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Companies in the sub-$50 billion range with inflection growth are the trickiest area of the investing landscape because they're beneficiaries of high valuations yet still have binary risk",
     "asset_type": "sector",
     "ticker_or_name": "Private Companies (Sub-50B)",
@@ -7050,7 +7050,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Sierra (Brett Taylor's company) building agent-native Salesforce has upside if Meta, Google, SpaceX buy to accelerate path into agents, but downside if OpenAI and Anthropic do it themselves",
     "asset_type": "stock",
     "ticker_or_name": "Sierra",
@@ -7110,7 +7110,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "There are 14 levered ETFs launching on the day of the SpaceX IPO at 1.75x leverage, indicating we may not be at the top but we ain't at the bottom",
     "asset_type": "stock",
     "ticker_or_name": "SpaceX",
@@ -8475,7 +8475,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "Companies should take advantage of the next few months before Mythos capabilities are widely available to detect and patch vulnerabilities",
     "asset_type": "macro",
     "ticker_or_name": "Cybersecurity patching window",
@@ -9420,7 +9420,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerson",
+    "speaker": "Brad Gerstner",
     "prediction": "SaaS stocks are trading at all-time lows on both revenue multiples (3.9x forward revenue) and free cash flow multiples, with software now the worst performing S&P subsection for the year",
     "asset_type": "sector",
     "ticker_or_name": "SaaS",
@@ -9435,7 +9435,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerson",
+    "speaker": "Brad Gerstner",
     "prediction": "Figma is down 80% from its high, along with all big SaaS names experiencing massive market cap destruction in recent period",
     "asset_type": "stock",
     "ticker_or_name": "Figma",
@@ -9480,7 +9480,7 @@
     "price_ticker": "CRM"
   },
   {
-    "speaker": "Brad Gerson",
+    "speaker": "Brad Gerstner",
     "prediction": "Data infrastructure companies like Databricks, Snowflake, and ClickHouse are accelerating and acting as AI beneficiaries with Databricks growing over 60% at scale",
     "asset_type": "sector",
     "ticker_or_name": "Data Infrastructure",
@@ -10200,7 +10200,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "OpenAI will end the year on a $20 billion forward run rate, meaning December revenue will be $1.666 billion at least.",
     "asset_type": "other",
     "ticker_or_name": "OpenAI",
@@ -10245,7 +10245,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "OpenAI's cohort curves show they are the verb at the moment in consumer AI and it is theirs to lose. Their retention and engagement rates are outstanding.",
     "asset_type": "other",
     "ticker_or_name": "OpenAI",
@@ -10260,7 +10260,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gersonner",
+    "speaker": "Brad Gerstner",
     "prediction": "The AI market is as big or bigger than current estimates, but it will not be a straight line up and to the right. There will be moments of risk-off panic just as with internet, mobile, and cloud.",
     "asset_type": "sector",
     "ticker_or_name": "AI",
@@ -13050,7 +13050,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "Anthropic added 70% of net new ARR in the entire SaaS industry in Q1, making it the primary driver of SaaS disruption through code generation",
     "asset_type": "other",
     "ticker_or_name": "Anthropic",
@@ -13065,7 +13065,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Jason",
+    "speaker": "Jason Calacanis",
     "prediction": "Over the next five years, the stock picking opportunity will be determined by which S&P 493 management teams are aggressive and bold capturing AI opportunity (like Zuck) vs those that are not",
     "asset_type": "sector",
     "ticker_or_name": "S&P 493",
@@ -13155,7 +13155,7 @@
     "price_ticker": "GOOGL"
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "Elon/XAI is my number one pick to win the AI race if Tesla and XAI merge and consolidate their brain power, combining Tesla's hardware stack with FSD and Optimus, X's real-time data, and XAI's models.",
     "asset_type": "stock",
     "ticker_or_name": "Tesla",
@@ -13170,7 +13170,7 @@
     "price_ticker": "TSLA"
   },
   {
-    "speaker": "Sacks",
+    "speaker": "David Sacks",
     "prediction": "If Tesla and XAI don't merge, Elon gets either number one or two, and Google would be number two due to having a better search product and more effective ad network leveraging Gmail, Chrome, Android, and YouTube data.",
     "asset_type": "stock",
     "ticker_or_name": "Google",
@@ -14280,7 +14280,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Gavin",
+    "speaker": "Gavin Baker",
     "prediction": "China will likely fail to create something competitive with or better than Nvidia chips in the next 5 years, but over 10 years, who knows - the chances are near zero for 5 years but uncertain for 10 years.",
     "asset_type": "sector",
     "ticker_or_name": "Semiconductor/AI chips",
@@ -14295,7 +14295,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Gavin",
+    "speaker": "Gavin Baker",
     "prediction": "The ROI on AI high in Blackwell is going to be very high if agents materialize as a reality.",
     "asset_type": "stock",
     "ticker_or_name": "Nvidia/Blackwell",
@@ -14310,7 +14310,7 @@
     "price_ticker": "NVDA"
   },
   {
-    "speaker": "Gavin",
+    "speaker": "Gavin Baker",
     "prediction": "Compute will be the rate limiting factor in widespread agent adoption, and there will be a long time before there is enough compute in the ground for agents doing things for users all day long to be a widespread reality.",
     "asset_type": "sector",
     "ticker_or_name": "Compute/Data center infrastructure",
@@ -20400,7 +20400,7 @@
     "price_ticker": "META"
   },
   {
-    "speaker": "Brad Gershner",
+    "speaker": "Brad Gerstner",
     "prediction": "Technology will perform well for an extended period even with rates in the 3-4.5% range, and the adjustment period from zero to 4.5% rates has been very difficult but the market has largely moved past inflation and rates concerns",
     "asset_type": "sector",
     "ticker_or_name": "Technology sector",
@@ -20415,7 +20415,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gershner",
+    "speaker": "Brad Gerstner",
     "prediction": "The next 10 years will be about alpha, not beta - not all companies will bounce back and only those with courage to build great products and drive great business models will compete and continue to invest in innovation like AI",
     "asset_type": "sector",
     "ticker_or_name": "Technology sector",
@@ -20430,7 +20430,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gershner",
+    "speaker": "Brad Gerstner",
     "prediction": "S&P 500 earnings will go from $225 to $200, which requires a reversal not just slowing of growth, but consensus expectations show Q3-Q4 earnings are up year-over-year and Q1 consensus is also up year-over-year, suggesting this bearish view lacks supporting evidence",
     "asset_type": "macro",
     "ticker_or_name": "S&P 500",
@@ -25635,7 +25635,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "We have AGI already - we absolutely have artificial general intelligence right now; we've already satisfied the definition of AGI from 2009",
     "asset_type": "sector",
     "ticker_or_name": "AI/AGI",
@@ -25650,7 +25650,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "The first camp pursuing superintelligence is very risky - 'I would be very worried there' about the scalability approach and physics of the economics",
     "asset_type": "sector",
     "ticker_or_name": "Superintelligence Research",
@@ -25665,7 +25665,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "The intelligence layer (LLMs/foundation models) will capture approximately half of enterprise AI value, making it a significant but commoditized layer",
     "asset_type": "sector",
     "ticker_or_name": "LLM Companies",
@@ -25680,7 +25680,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "Most value in AI will accrue to applications and software layer, not infrastructure - similar to how value went to Facebook, Airbnb, Uber rather than portal companies",
     "asset_type": "sector",
     "ticker_or_name": "AI Applications/Software",
@@ -25695,7 +25695,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "Enterprise software companies like Salesforce and ServiceNow will not become just databases - they'll evolve but remain valuable end-to-end stacks with AI integration",
     "asset_type": "stock",
     "ticker_or_name": "CRM/Software Companies (Salesforce, ServiceNow)",
@@ -25710,7 +25710,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Brad Gerstner (Altimeter Capital)",
+    "speaker": "Brad Gerstner",
     "prediction": "To justify the $500B+ AI capex spend, the industry needs to generate approximately $1 trillion in AI revenue - this is a significant physics problem that needs to be solved",
     "asset_type": "macro",
     "ticker_or_name": "AI Industry Economics",
@@ -26145,7 +26145,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sherwin Wu",
+    "speaker": "Shervin Wu",
     "prediction": "I'm short on the entire category of like tooling eval products",
     "asset_type": "sector",
     "ticker_or_name": "AI Tooling/Eval Products",
@@ -26160,7 +26160,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sherwin Wu",
+    "speaker": "Shervin Wu",
     "prediction": "The first one was the realization in 2023 that I would never need to code manually like ever ever again",
     "asset_type": "other",
     "ticker_or_name": "AI Coding Automation",
@@ -26175,7 +26175,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sherwin Wu",
+    "speaker": "Shervin Wu",
     "prediction": "In San Francisco, you could take a car from one part of SF to the other fully autonomously. Physical autonomy is ahead of digital autonomy in 2025",
     "asset_type": "other",
     "ticker_or_name": "Autonomous Vehicles",
@@ -26190,7 +26190,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sherwin Wu",
+    "speaker": "Shervin Wu",
     "prediction": "I think AI agents are like really in day one here. ChatGPT only came out in 2022. The slope, I think, is incredibly steep",
     "asset_type": "sector",
     "ticker_or_name": "AI Agents",
@@ -26205,7 +26205,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sherwin Wu",
+    "speaker": "Shervin Wu",
     "prediction": "self-driving cars have a good amount of scaffolding in the world. You have roads. Roads exist. They're pretty standardized versus AI agents are just kind of dropped in the middle of nowhere",
     "asset_type": "other",
     "ticker_or_name": "AI Agent Infrastructure",
@@ -26220,7 +26220,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunonny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "If OpenAI releases an open source model with Quen-level intelligence at 20% of the cost, it will rise to the top of distribution leaderboards like Open Router within a few days",
     "asset_type": "sector",
     "ticker_or_name": "OpenAI open-source model",
@@ -26235,7 +26235,7 @@
     "price_ticker": null
   },
   {
-    "speaker": "Sunonny Madra",
+    "speaker": "Sundeep Madra",
     "prediction": "Demand far outstrips supply at Grock - every rack deployed becomes fully consumed within a few hours",
     "asset_type": "sector",
     "ticker_or_name": "AI compute/inference",
