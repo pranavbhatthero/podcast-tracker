@@ -79,7 +79,11 @@ def parse_vtt(path):
 
 def ts_to_secs(ts):
     p = re.findall(r'\d+', ts)
-    if len(p)==3: return int(p[0])*3600+int(p[1])*60+int(p[2])
+    if len(p)==3:
+        h, m, s = int(p[0]), int(p[1]), int(p[2])
+        # yt-dlp sometimes emits 3-digit "seconds" like 279 — clamp to valid range
+        if s > 59: s = 0
+        return h*3600 + m*60 + s
     if len(p)==2: return int(p[0])*60+int(p[1])
     return 0
 
