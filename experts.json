@@ -261,6 +261,146 @@
     "tags": ["semiconductors", "tech", "chips"]
   },
   {
+    "id": "satya_nadella",
+    "name": "Satya Nadella",
+    "aliases": ["Satya Nadella"],
+    "role": "CEO, Microsoft",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin","https://www.youtube.com/@BG2Pod"],
+    "search_terms": ["Satya Nadella Microsoft", "Satya Nadella interview"],
+    "tags": ["tech-ceo", "ai", "cloud"]
+  },
+  {
+    "id": "dylan_patel",
+    "name": "Dylan Patel",
+    "aliases": ["Dylan Patel"],
+    "role": "Chief Analyst, SemiAnalysis",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Dylan Patel SemiAnalysis", "Dylan Patel semiconductors"],
+    "tags": ["semiconductors", "ai", "analyst"]
+  },
+  {
+    "id": "eric_schmidt",
+    "name": "Eric Schmidt",
+    "aliases": ["Eric Schmidt"],
+    "role": "Former CEO, Google; investor",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Eric Schmidt Google", "Eric Schmidt interview"],
+    "tags": ["tech-ceo", "ai", "policy"]
+  },
+  {
+    "id": "scott_bessent",
+    "name": "Scott Bessent",
+    "aliases": ["Scott Bessent"],
+    "role": "U.S. Secretary of the Treasury",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Scott Bessent Treasury", "Scott Bessent macro"],
+    "tags": ["macro", "policy", "hedge-fund"]
+  },
+  {
+    "id": "nikesh_arora",
+    "name": "Nikesh Arora",
+    "aliases": ["Nikesh Arora"],
+    "role": "CEO, Palo Alto Networks",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Nikesh Arora Palo Alto Networks"],
+    "tags": ["tech-ceo", "cybersecurity"]
+  },
+  {
+    "id": "brian_armstrong",
+    "name": "Brian Armstrong",
+    "aliases": ["Brian Armstrong"],
+    "role": "CEO, Coinbase",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Brian Armstrong Coinbase"],
+    "tags": ["crypto", "tech-ceo"]
+  },
+  {
+    "id": "michael_dell",
+    "name": "Michael Dell",
+    "aliases": ["Michael Dell"],
+    "role": "CEO, Dell Technologies",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin","https://www.youtube.com/@BG2Pod"],
+    "search_terms": ["Michael Dell interview"],
+    "tags": ["tech-ceo", "ai", "infrastructure"]
+  },
+  {
+    "id": "philippe_laffont",
+    "name": "Philippe Laffont",
+    "aliases": ["Philippe Laffont"],
+    "role": "Founder, Coatue Management",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Philippe Laffont Coatue"],
+    "tags": ["hedge-fund", "vc", "tech"]
+  },
+  {
+    "id": "dan_loeb",
+    "name": "Dan Loeb",
+    "aliases": ["Dan Loeb"],
+    "role": "CEO, Third Point LLC",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Dan Loeb Third Point"],
+    "tags": ["hedge-fund", "activism", "public-markets"]
+  },
+  {
+    "id": "aaron_levie",
+    "name": "Aaron Levie",
+    "aliases": ["Aaron Levie", "Aaron"],
+    "role": "CEO, Box",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin","https://www.youtube.com/@BG2Pod"],
+    "search_terms": ["Aaron Levie Box", "Aaron Levie interview"],
+    "tags": ["tech-ceo", "ai", "saas"]
+  },
+  {
+    "id": "travis_kalanick",
+    "name": "Travis Kalanick",
+    "aliases": ["Travis Kalanick"],
+    "role": "Co-founder, Uber; founder, CloudKitchens",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Travis Kalanick interview"],
+    "tags": ["entrepreneur", "tech-ceo"]
+  },
+  {
+    "id": "dara_khosrowshahi",
+    "name": "Dara Khosrowshahi",
+    "aliases": ["Dara Khosrowshahi"],
+    "role": "CEO, Uber",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Dara Khosrowshahi Uber"],
+    "tags": ["tech-ceo", "transport"]
+  },
+  {
+    "id": "shervin_wu",
+    "name": "Shervin Wu",
+    "aliases": ["Shervin Wu", "Sherwin Wu"],
+    "role": "Partner, Andreessen Horowitz (a16z)",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Shervin Wu a16z"],
+    "tags": ["vc", "tech"]
+  },
+  {
+    "id": "sundeep_madra",
+    "name": "Sundeep Madra",
+    "aliases": ["Sundeep Madra", "Sunny Madra", "Sunonny Madra"],
+    "role": "VP, Ford Pro; former Ford X",
+    "own_channels": [],
+    "known_podcasts": ["https://www.youtube.com/@allin"],
+    "search_terms": ["Sundeep Madra Ford"],
+    "tags": ["tech", "automotive"]
+  },
+  {
     "id": "bryan_johnson",
     "name": "Bryan Johnson",
     "aliases": ["Bryan Johnson"],
