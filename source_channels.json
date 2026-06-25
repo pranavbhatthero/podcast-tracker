@@ -1,0 +1,135 @@
+[
+  {
+    "id": "lex_fridman",
+    "name": "Lex Fridman Podcast",
+    "channel_url": "https://www.youtube.com/@lexfridman",
+    "type": "podcast",
+    "experts": ["Elon Musk", "Sam Altman", "Jensen Huang", "Ray Dalio", "Mark Cuban", "Chamath Palihapitiya", "David Sacks"]
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "channel_url": "https://www.youtube.com/@CNBC",
+    "type": "news",
+    "experts": ["Bill Ackman", "Dan Loeb", "Brad Gerstner", "Philippe Laffont", "Gavin Baker", "Bill Gurley", "Scott Bessent", "Ray Dalio", "Stanley Druckenmiller"]
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg Markets",
+    "channel_url": "https://www.youtube.com/@BloombergMarkets",
+    "type": "news",
+    "experts": ["Bill Ackman", "Dan Loeb", "Ray Dalio", "Scott Bessent", "Brad Gerstner", "Philippe Laffont"]
+  },
+  {
+    "id": "bloombergtech",
+    "name": "Bloomberg Technology",
+    "channel_url": "https://www.youtube.com/@BloombergTechnology",
+    "type": "news",
+    "experts": ["Jensen Huang", "Satya Nadella", "Sam Altman", "Eric Schmidt", "Nikesh Arora", "Brian Armstrong", "Aaron Levie"]
+  },
+  {
+    "id": "acquired",
+    "name": "Acquired Podcast",
+    "channel_url": "https://www.youtube.com/@acquiredfm",
+    "type": "podcast",
+    "experts": ["Brad Gerstner", "Bill Gurley", "Jensen Huang", "Satya Nadella"]
+  },
+  {
+    "id": "invest_like_best",
+    "name": "Invest Like the Best",
+    "channel_url": "https://www.youtube.com/@investlikethebest",
+    "type": "podcast",
+    "experts": ["Brad Gerstner", "Bill Gurley", "Gavin Baker", "Philippe Laffont", "Dan Loeb", "Bill Ackman"]
+  },
+  {
+    "id": "bankless",
+    "name": "Bankless",
+    "channel_url": "https://www.youtube.com/@Bankless",
+    "type": "podcast",
+    "experts": ["Chamath Palihapitiya", "Brian Armstrong", "Balaji Srinivasan"]
+  },
+  {
+    "id": "this_week_in_startups",
+    "name": "This Week in Startups",
+    "channel_url": "https://www.youtube.com/@ThisWeekIn",
+    "type": "podcast",
+    "experts": ["Jason Calacanis", "Chamath Palihapitiya", "David Sacks", "David Friedberg", "Brad Gerstner", "Bill Gurley"]
+  },
+  {
+    "id": "20vc",
+    "name": "20VC",
+    "channel_url": "https://www.youtube.com/@20vcpodcast",
+    "type": "podcast",
+    "experts": ["Chamath Palihapitiya", "Jason Calacanis", "Bill Gurley", "Brad Gerstner", "Sam Altman"]
+  },
+  {
+    "id": "wef_davos",
+    "name": "World Economic Forum (Davos)",
+    "channel_url": "https://www.youtube.com/@wef",
+    "type": "conference",
+    "experts": ["Ray Dalio", "Satya Nadella", "Jensen Huang", "Sam Altman", "Eric Schmidt", "Scott Bessent"]
+  },
+  {
+    "id": "stanford_gsb",
+    "name": "Stanford GSB",
+    "channel_url": "https://www.youtube.com/@stanfordgsb",
+    "type": "conference",
+    "experts": ["Bill Gurley", "Sam Altman", "Jensen Huang", "Peter Thiel", "Chamath Palihapitiya"]
+  },
+  {
+    "id": "ymcombinator",
+    "name": "Y Combinator",
+    "channel_url": "https://www.youtube.com/@ycombinator",
+    "type": "conference",
+    "experts": ["Sam Altman", "Jason Calacanis", "Brad Gerstner"]
+  },
+  {
+    "id": "goldmansachs",
+    "name": "Goldman Sachs",
+    "channel_url": "https://www.youtube.com/@goldmansachsgroup",
+    "type": "conference",
+    "experts": ["Ray Dalio", "Bill Ackman", "Dan Loeb", "Scott Bessent", "Philippe Laffont", "Brad Gerstner"]
+  },
+  {
+    "id": "milken_institute",
+    "name": "Milken Institute",
+    "channel_url": "https://www.youtube.com/@milkeninstitute",
+    "type": "conference",
+    "experts": ["Bill Ackman", "Dan Loeb", "Ray Dalio", "Brad Gerstner", "Bill Gurley", "Philippe Laffont", "Gavin Baker"]
+  },
+  {
+    "id": "robin_hood",
+    "name": "Robin Hood Investors Conference",
+    "channel_url": "https://www.youtube.com/@robinhoodfoundation",
+    "type": "conference",
+    "experts": ["Bill Ackman", "Dan Loeb", "Philippe Laffont", "Stanley Druckenmiller"]
+  },
+  {
+    "id": "odd_lots",
+    "name": "Odd Lots (Bloomberg)",
+    "channel_url": "https://www.youtube.com/@oddlots",
+    "type": "podcast",
+    "experts": ["Ray Dalio", "Scott Bessent", "Bill Ackman", "Dan Loeb"]
+  },
+  {
+    "id": "all_in_summit",
+    "name": "All-In Summit",
+    "channel_url": "https://www.youtube.com/@AllInSummit",
+    "type": "conference",
+    "experts": ["Chamath Palihapitiya", "David Sacks", "David Friedberg", "Jason Calacanis", "Brad Gerstner", "Bill Gurley", "Elon Musk", "Sam Altman", "Jensen Huang", "Peter Thiel", "Ray Dalio"]
+  },
+  {
+    "id": "semafor",
+    "name": "Semafor",
+    "channel_url": "https://www.youtube.com/@semafor",
+    "type": "news",
+    "experts": ["Chamath Palihapitiya", "David Sacks", "Sam Altman", "Brad Gerstner"]
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "channel_url": "https://www.youtube.com/@TechCrunch",
+    "type": "news",
+    "experts": ["Jason Calacanis", "Chamath Palihapitiya", "Sam Altman", "Jensen Huang", "Brian Armstrong"]
+  }
+]
