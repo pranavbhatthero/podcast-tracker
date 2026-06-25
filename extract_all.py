@@ -112,21 +112,45 @@ def download_transcript(video_id):
     return False
 
 
+def parse_json_array(raw: str):
+    """Robustly extract a JSON array from Claude's response."""
+    # Strip markdown code fences
+    raw = re.sub(r'```(?:json)?\s*', '', raw).strip()
+    # Find the first '[' and last ']'
+    start = raw.find('[')
+    end   = raw.rfind(']')
+    if start == -1 or end == -1 or end < start:
+        return []
+    chunk = raw[start:end+1]
+    try:
+        return json.loads(chunk)
+    except json.JSONDecodeError:
+        # Truncated JSON — walk back to the last complete object
+        last_close = chunk.rfind('}')
+        if last_close == -1:
+            return []
+        truncated = chunk[:last_close+1]
+        # Remove trailing comma if present, then close array
+        truncated = truncated.rstrip().rstrip(',') + ']'
+        try:
+            return json.loads(truncated)
+        except json.JSONDecodeError:
+            return []
+
+
 def extract(client, episode, segs, speakers):
     transcript = '\n'.join(f"[{ts}] {txt}" for ts,_,txt in segs)[:50000]
     names = ', '.join(speakers)
     try:
         resp = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=2048,
+            max_tokens=4096,
             system=[{"type":"text","text":SYSTEM_PROMPT,"cache_control":{"type":"ephemeral"}}],
             messages=[{"role":"user","content":
                 f"Speakers to track: {names}\nEpisode: {episode['title']}\nDate: {episode['date']}\n\nTranscript:\n{transcript}"}],
         )
-        raw = resp.content[0].text.strip()
-        m   = re.search(r'\[.*\]', raw, re.DOTALL)
-        if not m: return []
-        calls = json.loads(m.group(0))
+        raw   = resp.content[0].text.strip()
+        calls = parse_json_array(raw)
         results = []
         for c in calls:
             ts   = c.get('timestamp','00:00:00').strip('[]')
