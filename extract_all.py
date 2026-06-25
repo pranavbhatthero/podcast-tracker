@@ -183,16 +183,16 @@ for i, episode in enumerate(allin_ordered):
     vid = episode['video_id']
     vtt = TRANSCRIPTS / f"{vid}.en.vtt"
 
-    # For year_predictions, try to download; for others, only process if already downloaded
-    if 'year_predictions' in episode.get('tags', []):
-        if not vtt.exists():
-            download_transcript(vid)
+    # Download transcript if missing
+    if not vtt.exists():
+        download_transcript(vid)
 
     if not vtt.exists():
+        print(f"[allin {i+1}/{len(allin_ordered)}] SKIP (no transcript): {episode['title'][:55]}")
         continue
 
     tag = " [PREDICTIONS]" if 'year_predictions' in episode.get('tags', []) else ""
-    print(f"[allin {allin_processed+1}] {episode['date']}  {episode['title'][:55]}{tag}")
+    print(f"[allin {allin_processed+1}/{len(allin_ordered)}] {episode['date']}  {episode['title'][:55]}{tag}")
     segs  = parse_vtt(vtt)
     calls = extract(client, episode, segs, ALLIN_SPEAKERS)
     print(f"         → {len(calls)} calls found")
@@ -204,6 +204,8 @@ print(f"\n=== BG2: {len(bg2_eps)} episodes ===")
 for i, episode in enumerate(bg2_eps):
     vid = episode['video_id']
     vtt = TRANSCRIPTS / f"{vid}.en.vtt"
+    if not vtt.exists():
+        download_transcript(vid)
     if not vtt.exists():
         print(f"[bg2 {i+1}/{len(bg2_eps)}] SKIP (no transcript): {episode['title'][:55]}")
         continue
