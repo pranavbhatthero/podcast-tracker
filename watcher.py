@@ -25,7 +25,7 @@ KNOWN_EPISODE_FILES = ["episodes.json", "bg2_episodes.json"]
 
 TRANSCRIPTS.mkdir(exist_ok=True)
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "") or os.environ.get("ANTHROPIC_AUTH_TOKEN", "")
 
 CONFIG_FILE  = BASE_DIR / "config.json"
 CONFIG       = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
@@ -168,15 +168,29 @@ Focus on: market calls, stock/asset picks, macro predictions, strong opinions on
 
 def extract_calls(transcript, expert_names, video_title, video_id):
     if not ANTHROPIC_API_KEY:
-        print("  (skipping extraction — ANTHROPIC_API_KEY not set)", file=sys.stderr)
+        print("  (skipping extraction — ANTHROPIC_API_KEY / ANTHROPIC_AUTH_TOKEN not set)", file=sys.stderr)
         return []
     try:
         import anthropic
+        import httpx
     except ImportError:
         print("  (skipping extraction — anthropic package not installed)", file=sys.stderr)
         return []
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    _bedrock = os.environ.get("ANTHROPIC_BEDROCK_BASE_URL", "")
+    _ca      = os.environ.get("NODE_EXTRA_CA_CERTS", "")
+    if _bedrock.endswith("/bedrock"):
+        _base_url = _bedrock[:-len("/bedrock")]
+    elif _bedrock:
+        _base_url = _bedrock.rstrip("/")
+    else:
+        _base_url = None
+
+    if _base_url:
+        _http  = httpx.Client(verify=_ca if _ca else True)
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY, base_url=_base_url, http_client=_http)
+    else:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     names_str = ", ".join(expert_names)
 
     try:
