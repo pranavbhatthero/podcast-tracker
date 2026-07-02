@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.allin.autoupdate</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/pbhatt/claude-projects/i-m-all-in/.venv/bin/python3</string>
+        <string>/Users/pbhatt/claude-projects/i-m-all-in/auto_update.py</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>6</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>18</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/pbhatt/claude-projects/i-m-all-in/auto_update.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/pbhatt/claude-projects/i-m-all-in/auto_update_err.log</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>ANTHROPIC_AUTH_TOKEN</key>
+        <string>sk-wQ-tKZWZ6JpmTNexoSQoUg</string>
+        <key>ANTHROPIC_BEDROCK_BASE_URL</key>
+        <string>https://eng-ai-model-gateway.sfproxy.devx-preprod.aws-esvc1-useast2.aws.sfdc.cl/bedrock</string>
+        <key>AWS_PROFILE</key>
+        <string>claude</string>
+        <key>CLAUDE_CODE_USE_BEDROCK</key>
+        <string>1</string>
+        <key>CLAUDE_CODE_SKIP_BEDROCK_AUTH</key>
+        <string>1</string>
+        <key>NODE_EXTRA_CA_CERTS</key>
+        <string>/Users/pbhatt/.claude/certs/salesforce-ca-bundle.pem</string>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/pbhatt/claude-projects/i-m-all-in/.venv/bin</string>
+    </dict>
+    <key>WorkingDirectory</key>
+    <string>/Users/pbhatt/claude-projects/i-m-all-in</string>
+</dict>
+</plist>

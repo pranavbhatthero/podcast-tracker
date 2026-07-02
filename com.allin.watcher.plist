@@ -8,16 +8,20 @@
 
   <key>ProgramArguments</key>
   <array>
-    <string>/usr/bin/python3</string>
+    <string>/Users/pbhatt/claude-projects/i-m-all-in/.venv/bin/python3</string>
     <string>/Users/pbhatt/claude-projects/i-m-all-in/watcher.py</string>
   </array>
 
   <key>EnvironmentVariables</key>
   <dict>
-    <key>ANTHROPIC_API_KEY</key>
-    <string>REPLACE_WITH_YOUR_API_KEY</string>
+    <key>ANTHROPIC_AUTH_TOKEN</key>
+    <string>REPLACE_WITH_YOUR_SALESFORCE_TOKEN</string>
+    <key>ANTHROPIC_BEDROCK_BASE_URL</key>
+    <string>https://eng-ai-model-gateway.sfproxy.devx-preprod.aws-esvc1-useast2.aws.sfdc.cl/bedrock</string>
+    <key>NODE_EXTRA_CA_CERTS</key>
+    <string>/Users/pbhatt/.claude/certs/salesforce-ca-bundle.pem</string>
     <key>PATH</key>
-    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/Users/pbhatt/claude-projects/i-m-all-in/.venv/bin</string>
   </dict>
 
   <key>StartInterval</key>

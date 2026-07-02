@@ -200,18 +200,6 @@
     "tags": ["entrepreneur", "public-markets", "policy"]
   },
   {
-    "id": "dan_loeb",
-    "name": "Dan Loeb",
-    "aliases": ["Dan Loeb"],
-    "role": "CEO, Third Point LLC",
-    "own_channels": [],
-    "known_podcasts": [
-      "https://www.youtube.com/@allin"
-    ],
-    "search_terms": ["Dan Loeb Third Point", "Dan Loeb interview"],
-    "tags": ["hedge-fund", "activism", "public-markets"]
-  },
-  {
     "id": "thomas_laffont",
     "name": "Thomas Laffont",
     "aliases": ["Thomas Laffont"],
