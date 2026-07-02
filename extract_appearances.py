@@ -38,37 +38,83 @@ You extract notable predictions and investment calls from podcast/interview tran
 For each notable call return a JSON object:
 - "speaker"       : exact name of the person making the call
 - "prediction"    : full sentence describing what they said (include specifics: price targets, % moves, timeframes)
-- "asset_type"    : "stock" | "crypto" | "commodity" | "macro" | "sector" | "other"
+- "asset_type"    : MUST be one of: "stock" | "crypto" | "commodity" | "macro" | "sector" | "etf" | "index" | "other"
 - "ticker_or_name": ticker symbol or asset name (e.g. "MU", "NVDA", "copper", "bitcoin")
-- "direction"     : "up" | "down" | "bullish" | "bearish" | "buy" | "sell" | "neutral"
+- "direction"     : MUST be one of: "bullish" | "bearish" | "neutral" (use "bullish" for up/buy/long, "bearish" for down/sell/short)
 - "timeframe"     : when they expect this to play out
 - "confidence"    : "high" | "medium" | "low"
 - "timestamp"     : [HH:MM:SS] closest timestamp from the transcript
-- "price_ticker"  : Yahoo Finance ticker if applicable, else null
+- "price_ticker"  : Yahoo Finance ticker symbol if applicable (e.g. "MU", "NVDA", "BTC-USD", "HG=F" for copper, "GC=F" for gold). For stocks always provide. For well-known commodities/crypto always provide. Else null.
 
 Only include concrete predictions with a clear directional view. Skip vague commentary.
 Return ONLY a valid JSON array. No markdown, no explanation."""
+
+DIRECTION_NORMALIZE = {
+    "up": "bullish", "buy": "bullish", "long": "bullish", "overweight": "bullish",
+    "down": "bearish", "sell": "bearish", "short": "bearish", "underweight": "bearish",
+}
+VALID_DIRECTIONS  = {"bullish", "bearish", "neutral"}
+VALID_ASSET_TYPES = {"stock", "crypto", "commodity", "macro", "sector", "etf", "index", "other"}
+
+def normalize_direction(d):
+    d = (d or "neutral").strip().lower()
+    if d in VALID_DIRECTIONS: return d
+    if d in DIRECTION_NORMALIZE: return DIRECTION_NORMALIZE[d]
+    if "bull" in d: return "bullish"
+    if "bear" in d or "sell" in d or "down" in d: return "bearish"
+    return "neutral"
+
+def normalize_asset_type(a):
+    a = (a or "other").strip().lower()
+    return a if a in VALID_ASSET_TYPES else "other"
 
 
 def parse_vtt(path):
     content = Path(path).read_text(encoding='utf-8')
     blocks  = re.split(r'\n\n+', content)
-    seen, segs = set(), []
+
+    def to_secs(t):
+        p = re.findall(r'\d+', t.split('.')[0])
+        if len(p)==3: return int(p[0])*3600+int(p[1])*60+int(p[2])
+        if len(p)==2: return int(p[0])*60+int(p[1])
+        return 0
+
+    raw = []
     for block in blocks:
         lines   = block.strip().split('\n')
         ts_line = next((l for l in lines if '-->' in l), None)
         if not ts_line: continue
-        start = ts_line.split('-->')[0].strip()
-        text_lines = [re.sub(r'<[^>]+>', '', l) for l in lines
+        start, end = ts_line.split('-->')
+        start = start.strip(); end = end.strip().split(' ')[0]
+        if to_secs(end) - to_secs(start) <= 0.1: continue
+        text_lines = [re.sub(r'<[^>]+>', '', l).strip() for l in lines
                       if '-->' not in l and not re.match(r'^\d+$', l.strip()) and l.strip()]
-        text = text_lines[-1].strip() if text_lines else ''
-        if text and text not in seen:
-            seen.add(text)
-            segs.append((start, text))
+        text = ' '.join(text_lines).strip()
+        if text:
+            raw.append((to_secs(start), start, text))
+
+    if not raw:
+        return []
+
+    from collections import defaultdict
+    by_bucket = defaultdict(list)
+    for secs, ts, text in raw:
+        bucket = secs // 8
+        by_bucket[bucket].append((secs, ts, text))
+
+    segs = []
+    seen_texts = set()
+    for bucket in sorted(by_bucket):
+        secs, ts, text = max(by_bucket[bucket], key=lambda x: len(x[2]))
+        if text not in seen_texts:
+            seen_texts.add(text)
+            segs.append((ts, text))
+
     return segs
 
 
 def ts_to_secs(ts):
+    ts = ts.split('.')[0]
     p = re.findall(r'\d+', ts)
     if len(p) == 3:
         h, m, s = int(p[0]), int(p[1]), int(p[2])
@@ -126,9 +172,9 @@ def extract(client, appearance):
             results.append({
                 "speaker":       speaker,
                 "prediction":    c.get("prediction", ""),
-                "asset_type":    c.get("asset_type", "other"),
+                "asset_type":    normalize_asset_type(c.get("asset_type", "other")),
                 "ticker_or_name": c.get("ticker_or_name", ""),
-                "direction":     c.get("direction", "neutral"),
+                "direction":     normalize_direction(c.get("direction", "neutral")),
                 "timeframe":     c.get("timeframe", ""),
                 "confidence":    c.get("confidence", "medium"),
                 "timestamp":     ts,
@@ -136,7 +182,7 @@ def extract(client, appearance):
                 "episode_date":  appearance.get('date', ''),
                 "episode_url":   appearance['url'],
                 "video_link":    f"https://youtu.be/{appearance['video_id']}?t={secs}",
-                "price_ticker":  c.get("price_ticker"),
+                "price_ticker":  c.get("price_ticker") or None,
                 "source":        "external",
                 "source_name":   appearance.get('source_name', appearance.get('source_id', '')),
             })
@@ -166,14 +212,15 @@ else:
 
 appearances = json.load(open(APPEAR_FILE)) if APPEAR_FILE.exists() else []
 existing    = json.load(open(PREDS_FILE))
-pred_urls   = {(p.get('episode_url', ''), p.get('timestamp', '')) for p in existing}
 
 # Only process appearances that have transcripts and haven't been extracted yet
+# Key on episode_url (video level) — if any predictions exist for this URL, skip
+extracted_urls = {p.get('episode_url') for p in existing}
 to_extract = [
     a for a in appearances
     if not a.get('no_transcript')
     and (TRANSCRIPTS / f"{a['video_id']}.en.vtt").exists()
-    and a['url'] not in {p.get('episode_url') for p in existing}
+    and a['url'] not in extracted_urls
 ]
 
 print(f"Appearances to extract: {len(to_extract)} / {len(appearances)} total")
@@ -186,15 +233,15 @@ for i, app in enumerate(to_extract):
 
     if (i + 1) % 25 == 0:
         existing = json.load(open(PREDS_FILE))
-        seen = {(p['episode_url'], p['timestamp']) for p in existing}
-        added = [p for p in new_preds if (p['episode_url'], p['timestamp']) not in seen]
+        seen = {p.get('video_link', '') for p in existing}
+        added = [p for p in new_preds if p.get('video_link', '') not in seen]
         merged = existing + added
         with open(PREDS_FILE, 'w') as f: json.dump(merged, f, indent=2)
         print(f"  [checkpoint] {len(added)} new ({len(merged)} total)")
 
 existing  = json.load(open(PREDS_FILE))
-seen_keys = {(p['episode_url'], p['timestamp']) for p in existing}
-added     = [p for p in new_preds if (p['episode_url'], p['timestamp']) not in seen_keys]
+seen_keys = {p.get('video_link', '') for p in existing}
+added     = [p for p in new_preds if p.get('video_link', '') not in seen_keys]
 merged    = existing + added
 
 with open(PREDS_FILE, 'w') as f: json.dump(merged, f, indent=2)
