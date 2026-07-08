@@ -4,7 +4,9 @@ __pycache__/
 .venv/
 transcripts/
 watcher.log
+*.log
 config.json
+*.plist
 dashboard/node_modules/
 dashboard/.next/
 dashboard/tsconfig.tsbuildinfo
