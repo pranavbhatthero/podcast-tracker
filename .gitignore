@@ -2,11 +2,15 @@
 __pycache__/
 *.pyc
 .venv/
-transcripts/
 watcher.log
 *.log
+.env
 config.json
 *.plist
 dashboard/node_modules/
 dashboard/.next/
 dashboard/tsconfig.tsbuildinfo
+
+# Transcripts: exclude by default (large files, downloaded by backfill.sh)
+# To include 2024+ transcripts in the repo, comment out the lines below
+transcripts/

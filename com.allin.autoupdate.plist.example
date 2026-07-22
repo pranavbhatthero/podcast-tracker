@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd scheduler for the auto-update pipeline.
+
+  Setup:
+    1. Replace PATH_TO_REPO below with the absolute path to your clone
+       e.g. /Users/yourname/podcast-tracker
+    2. Copy to LaunchAgents:
+         cp com.allin.autoupdate.plist.example ~/Library/LaunchAgents/com.allin.autoupdate.plist
+    3. Load it:
+         launchctl load ~/Library/LaunchAgents/com.allin.autoupdate.plist
+    4. To unload:
+         launchctl unload ~/Library/LaunchAgents/com.allin.autoupdate.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.allin.autoupdate</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>PATH_TO_REPO/.venv/bin/python3</string>
+        <string>PATH_TO_REPO/auto_update.py</string>
+    </array>
+
+    <!-- Runs at 6am and 6pm daily -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key><integer>6</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>18</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>PATH_TO_REPO/auto_update.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>PATH_TO_REPO/auto_update_err.log</string>
+
+    <!-- Pass your LLM API key to the pipeline -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <!-- Anthropic (default) -->
+        <key>ANTHROPIC_API_KEY</key>
+        <string>YOUR_ANTHROPIC_API_KEY</string>
+
+        <!-- Or OpenAI — uncomment and set LLM_PROVIDER=openai -->
+        <!-- <key>LLM_PROVIDER</key><string>openai</string> -->
+        <!-- <key>OPENAI_API_KEY</key><string>YOUR_OPENAI_API_KEY</string> -->
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

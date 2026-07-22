@@ -8,7 +8,7 @@ Track investment predictions and market calls made by prominent investors and an
 
 1. **Discovers** new episodes from tracked YouTube channels (All-In, BG2 Pod, Lex Fridman, CNBC, Bloomberg, and more)
 2. **Downloads** transcripts via `yt-dlp`
-3. **Extracts** investment predictions using Claude Haiku — speaker, asset, direction, ticker, timeframe, confidence
+3. **Extracts** investment predictions using an LLM (Anthropic Claude or OpenAI) — speaker, asset, direction, ticker, timeframe, confidence
 4. **Tracks prices** via Yahoo Finance to score past calls
 5. **Displays** everything in a filterable dashboard with expert scorecards and consensus views
 
@@ -65,63 +65,94 @@ Each prediction has:
 
 ### Prerequisites
 
-- Python 3.11+
-- Node.js 18+
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (`brew install yt-dlp`)
-- An Anthropic API key (or Salesforce Bedrock gateway credentials)
+- macOS (the scheduler uses launchd)
+- Python 3.11+  →  `brew install python`
+- Node.js 18+   →  `brew install node`
+- yt-dlp        →  `brew install yt-dlp`
+- An LLM API key — Anthropic **or** OpenAI (see below)
 
 ### Install
 
 ```bash
-# Python deps
+git clone https://github.com/pranavbhatthero/podcast-tracker.git
+cd podcast-tracker
+
+# 1. Python environment
 python3 -m venv .venv
 source .venv/bin/activate
-pip install anthropic httpx yt-dlp
+pip install -r requirements.txt
 
-# Dashboard deps
-cd dashboard && npm install
+# 2. Dashboard
+cd dashboard && npm install && cd ..
 ```
 
 ### Configure
 
-Copy `config.json` and fill in your email credentials if you want digest notifications:
-
-```json
-{
-  "notify_email": "you@example.com",
-  "notify_from_email": "you@example.com",
-  "smtp_host": "smtp.gmail.com",
-  "smtp_port": 587,
-  "smtp_user": "you@example.com",
-  "smtp_password": "your-app-password",
-  "dashboard_url": "http://localhost:3001"
-}
+```bash
+cp .env.example .env
+# Open .env and fill in your API key (see options below)
 ```
 
-Set your API key:
+**Option A — Anthropic (default)**
 
 ```bash
-export ANTHROPIC_API_KEY=sk-...
-# Or for Salesforce Bedrock:
-export ANTHROPIC_AUTH_TOKEN=sk-...
-export ANTHROPIC_BEDROCK_BASE_URL=https://your-gateway/bedrock
+# .env
+LLM_PROVIDER=anthropic
+ANTHROPIC_API_KEY=sk-ant-...
+```
+
+**Option B — OpenAI**
+
+```bash
+# .env
+LLM_PROVIDER=openai
+OPENAI_API_KEY=sk-...
+# Optional: override model
+LLM_MODEL=gpt-4o-mini
+```
+
+**Option C — Any OpenAI-compatible endpoint (Ollama, Together, etc.)**
+
+```bash
+LLM_PROVIDER=openai
+OPENAI_API_KEY=ollama        # or any non-empty string
+OPENAI_BASE_URL=http://localhost:11434/v1
+LLM_MODEL=llama3.2
+```
+
+Then load your `.env` before running anything:
+
+```bash
+source .env   # or add to your ~/.zshrc
+```
+
+### Get historical data (first time only)
+
+The repo ships with `predictions.json` already containing 9,700+ extracted predictions. Transcripts are not stored in git (they're large). To download 2024+ transcripts and re-run extraction:
+
+```bash
+./backfill.sh
+# To go back further:
+START_YEAR=2023 ./backfill.sh
 ```
 
 ### Run the pipeline
 
 ```bash
-# Full update (fetch new episodes, extract predictions, sync dashboard)
-python3 auto_update.py
+# Full update: fetch new episodes, download transcripts, extract, sync dashboard
+source .env && python3 auto_update.py
 
-# Dashboard only
+# Dashboard only (no pipeline)
 cd dashboard && npm run dev
+# Open http://localhost:3001
 ```
 
 ### Schedule (macOS launchd)
 
-Edit `com.allin.autoupdate.plist.example` with your paths and token, copy to `~/Library/LaunchAgents/`, then:
+Edit `com.allin.autoupdate.plist.example` — replace the `PATH_TO_REPO` placeholder with the absolute path to your clone, then:
 
 ```bash
+cp com.allin.autoupdate.plist.example ~/Library/LaunchAgents/com.allin.autoupdate.plist
 launchctl load ~/Library/LaunchAgents/com.allin.autoupdate.plist
 ```
 
@@ -155,6 +186,7 @@ cd dashboard && npm run dev
 
 ## Notes
 
-- `transcripts/` is gitignored — re-downloaded on demand (~600 MB when fully populated)
-- `config.json` and `*.plist` are gitignored — contain local paths and credentials
+- `transcripts/` is gitignored — run `./backfill.sh` to download (≈185 MB for 2024+, ≈600 MB all-time)
+- `.env` and `*.plist` are gitignored — contain credentials and local paths
 - `dashboard/node_modules/` and `dashboard/.next/` are gitignored
+- `llm_client.py` is the single place that wires up whichever LLM you configure

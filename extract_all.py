@@ -4,10 +4,10 @@ Extract predictions from All-In + BG2 episodes.
 Priority: year_predictions tagged episodes first, then all others.
 Downloads missing transcripts as needed.
 """
-import json, re, subprocess, sys
+import json, os, re, subprocess, sys
 from pathlib import Path
 
-BASE_DIR     = Path('/Users/pbhatt/claude-projects/i-m-all-in')
+BASE_DIR     = Path(__file__).resolve().parent
 TRANSCRIPTS  = BASE_DIR / 'transcripts'
 BG2_FILE     = BASE_DIR / 'bg2_episodes.json'
 ALLIN_FILE   = BASE_DIR / 'episodes.json'
@@ -17,7 +17,7 @@ EXPERTS_FILE = BASE_DIR / 'experts.json'
 
 TRANSCRIPTS.mkdir(exist_ok=True)
 
-import os, anthropic
+from llm_client import make_client
 
 bg2_eps    = json.load(open(BG2_FILE))
 allin_eps  = json.load(open(ALLIN_FILE))
@@ -193,7 +193,7 @@ def extract(client, episode, segs, speakers, source: str):
     names = ', '.join(speakers)
     try:
         resp = client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model=MODEL,
             max_tokens=4096,
             system=[{"type":"text","text":SYSTEM_PROMPT,"cache_control":{"type":"ephemeral"}}],
             messages=[{"role":"user","content":
@@ -227,27 +227,7 @@ def extract(client, episode, segs, speakers, source: str):
         return []
 
 
-# Support Salesforce/Bedrock gateway when ANTHROPIC_AUTH_TOKEN is set
-_token   = os.environ.get("ANTHROPIC_AUTH_TOKEN", "")
-_bedrock = os.environ.get("ANTHROPIC_BEDROCK_BASE_URL", "")
-# Strip the /bedrock suffix to get the OpenAI-compatible base
-if _bedrock.endswith("/bedrock"):
-    _base_url = _bedrock[:-len("/bedrock")]
-elif _bedrock:
-    _base_url = _bedrock.rstrip("/")
-else:
-    _base_url = None
-
-_ca_bundle = os.environ.get("NODE_EXTRA_CA_CERTS", "")
-
-if _token and _base_url:
-    import httpx
-    _http = httpx.Client(verify=_ca_bundle if _ca_bundle else True)
-    client = anthropic.Anthropic(api_key=_token, base_url=_base_url, http_client=_http)
-elif _token:
-    client = anthropic.Anthropic(api_key=_token)
-else:
-    client = anthropic.Anthropic()
+client, MODEL = make_client()
 new_preds = []
 
 # ── All-In episodes ──────────────────────────────────────────────────────────

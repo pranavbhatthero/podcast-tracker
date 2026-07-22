@@ -14,7 +14,7 @@ import json, subprocess, sys, logging
 from pathlib import Path
 from datetime import datetime
 
-BASE_DIR    = Path('/Users/pbhatt/claude-projects/i-m-all-in')
+BASE_DIR    = Path(__file__).resolve().parent
 LOG_FILE    = BASE_DIR / 'auto_update.log'
 VENV_PYTHON = BASE_DIR / '.venv' / 'bin' / 'python3'
 

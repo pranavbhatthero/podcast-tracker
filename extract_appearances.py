@@ -4,17 +4,17 @@ Extract predictions from external appearances (appearances.json).
 Same pipeline as extract_all.py but reads from appearances.json.
 Adds source/source_name fields to each prediction.
 """
-import json, re, sys, os
+import json, os, re, sys
 from pathlib import Path
 
-BASE_DIR     = Path('/Users/pbhatt/claude-projects/i-m-all-in')
+BASE_DIR     = Path(__file__).resolve().parent
 TRANSCRIPTS  = BASE_DIR / 'transcripts'
 APPEAR_FILE  = BASE_DIR / 'appearances.json'
 EXPERTS_FILE = BASE_DIR / 'experts.json'
 PREDS_FILE   = BASE_DIR / 'predictions.json'
 DASH_PREDS   = BASE_DIR / 'dashboard' / 'public' / 'predictions.json'
 
-import anthropic, httpx
+from llm_client import make_client
 
 experts = json.load(open(EXPERTS_FILE))
 
@@ -156,7 +156,7 @@ def extract(client, appearance):
 
     try:
         resp = client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model=MODEL,
             max_tokens=4096,
             system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
             messages=[{"role": "user", "content":
@@ -192,23 +192,7 @@ def extract(client, appearance):
         return []
 
 
-# Auth
-_token   = os.environ.get("ANTHROPIC_AUTH_TOKEN", "")
-_bedrock = os.environ.get("ANTHROPIC_BEDROCK_BASE_URL", "")
-if _bedrock.endswith("/bedrock"):
-    _base_url = _bedrock[:-len("/bedrock")]
-elif _bedrock:
-    _base_url = _bedrock.rstrip("/")
-else:
-    _base_url = None
-_ca_bundle = os.environ.get("NODE_EXTRA_CA_CERTS", "")
-if _token and _base_url:
-    _http = httpx.Client(verify=_ca_bundle if _ca_bundle else True)
-    client = anthropic.Anthropic(api_key=_token, base_url=_base_url, http_client=_http)
-elif _token:
-    client = anthropic.Anthropic(api_key=_token)
-else:
-    client = anthropic.Anthropic()
+client, MODEL = make_client()
 
 appearances = json.load(open(APPEAR_FILE)) if APPEAR_FILE.exists() else []
 existing    = json.load(open(PREDS_FILE))

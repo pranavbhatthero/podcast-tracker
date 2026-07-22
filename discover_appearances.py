@@ -11,7 +11,7 @@ import json, re, subprocess, sys
 from pathlib import Path
 from datetime import datetime, timedelta
 
-BASE_DIR     = Path('/Users/pbhatt/claude-projects/i-m-all-in')
+BASE_DIR     = Path(__file__).resolve().parent
 TRANSCRIPTS  = BASE_DIR / 'transcripts'
 CHANNELS_FILE = BASE_DIR / 'source_channels.json'
 EXPERTS_FILE  = BASE_DIR / 'experts.json'

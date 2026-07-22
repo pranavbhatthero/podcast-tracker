@@ -167,35 +167,17 @@ Only include statements from the listed experts — ignore other speakers.
 Focus on: market calls, stock/asset picks, macro predictions, strong opinions on companies, sectors, or technology."""
 
 def extract_calls(transcript, expert_names, video_title, video_id):
-    if not ANTHROPIC_API_KEY:
-        print("  (skipping extraction — ANTHROPIC_API_KEY / ANTHROPIC_AUTH_TOKEN not set)", file=sys.stderr)
-        return []
     try:
-        import anthropic
-        import httpx
-    except ImportError:
-        print("  (skipping extraction — anthropic package not installed)", file=sys.stderr)
+        from llm_client import make_client
+        client, model = make_client()
+    except Exception as e:
+        print(f"  (skipping extraction — could not init LLM client: {e})", file=sys.stderr)
         return []
-
-    _bedrock = os.environ.get("ANTHROPIC_BEDROCK_BASE_URL", "")
-    _ca      = os.environ.get("NODE_EXTRA_CA_CERTS", "")
-    if _bedrock.endswith("/bedrock"):
-        _base_url = _bedrock[:-len("/bedrock")]
-    elif _bedrock:
-        _base_url = _bedrock.rstrip("/")
-    else:
-        _base_url = None
-
-    if _base_url:
-        _http  = httpx.Client(verify=_ca if _ca else True)
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY, base_url=_base_url, http_client=_http)
-    else:
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     names_str = ", ".join(expert_names)
 
     try:
         resp = client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model=model,
             max_tokens=2048,
             system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
             messages=[{"role": "user", "content":
