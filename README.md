@@ -1,6 +1,20 @@
 # Podcast Tracker
 
-Track investment predictions and market calls made by prominent investors and analysts across podcasts, interviews, and financial media. Claude extracts structured predictions from transcripts; a Next.js dashboard surfaces them with live price data, expert scorecards, and consensus views.
+Track investment predictions and market calls made by prominent investors and analysts across podcasts, interviews, and financial media. An LLM extracts structured predictions from transcripts; a Next.js dashboard surfaces them with live price data, expert scorecards, and consensus views.
+
+**Current dataset:** 9,700+ predictions · 34 tracked experts · sources spanning 2020–present
+
+## Quick start
+
+```bash
+git clone https://github.com/pranavbhatthero/podcast-tracker.git
+cd podcast-tracker
+./setup.sh        # installs everything and walks you through config
+cd dashboard && npm run dev
+# open http://localhost:3001
+```
+
+`setup.sh` handles Python venv, Node deps, `.env` creation, and optionally downloads transcripts. Requires macOS with `brew install python node yt-dlp`.
 
 ---
 
@@ -11,8 +25,6 @@ Track investment predictions and market calls made by prominent investors and an
 3. **Extracts** investment predictions using an LLM (Anthropic Claude or OpenAI) — speaker, asset, direction, ticker, timeframe, confidence
 4. **Tracks prices** via Yahoo Finance to score past calls
 5. **Displays** everything in a filterable dashboard with expert scorecards and consensus views
-
-**Current dataset:** 9,700+ predictions · 34 tracked experts · sources spanning 2020–present
 
 ---
 
